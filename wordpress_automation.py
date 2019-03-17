@@ -16,40 +16,42 @@ cat_data = {
 	"File Sharing"	     		: "in-group-10",
 	"Messaging and Chat" 		: "in-group-51",
 	"CD and DVD Tools"  		: "in-group-56",
-	"Drivers"		   	 		: "in-group-16",
+	"Drivers"		   	: "in-group-16",
 	"Networking and Admin"		: "in-group-14",
-	"Developer Tools"			: "in-group-8",
-	"VPNs/Privacy"				: "in-group-17",
+	"Developer Tools"		: "in-group-8",
+	"VPNs/Privacy"			: "in-group-17",
 	"Browsers and Plugins"		: "in-group-5",
-	"Anti-Malware"				: "in-group-2",
-	"Office and News"			: "in-group-53",
+	"Anti-Malware"			: "in-group-2",
+	"Office and News"		: "in-group-53",
 	"Compression and Backup"	: "in-group-13",
-	"Desktop"					: "in-group-65",
-	"Audio and Video"			: "in-group-63",
-	"File Transfer"				: "in-group-58",
+	"Desktop"			: "in-group-65",
+	"Audio and Video"		: "in-group-63",
+	"File Transfer"			: "in-group-58",
 	"Firewalls and Security"	: "in-group-59",
-	"Freeware"					: "in-license-28",
-	"Commercial Trial"			: "in-license-42",
-	"Shareware"					: "in-license-29",
-	"Open Source"				: "in-license-32",
-	"Commercial Demo"			: "in-license-64",
+	"Freeware"			: "in-license-28",
+	"Commercial Trial"		: "in-license-42",
+	"Shareware"			: "in-license-29",
+	"Open Source"			: "in-license-32",
+	"Commercial Demo"		: "in-license-64",
 	"Commercial Purchase"		: "in-license-61",
 	"Non-Commercial Freeware"	:"in-license-44",
-	"missing"					: "in-license-28",
-	""							: "in-license-28",
+	"missing"			: "in-license-28",
+	""				: "in-license-28",
 
 }
 
+user_name = """ Your user name for Wordpress """
+login_pass = """ Your Passward for Wordpress Login """
 
 browser = webdriver.Chrome()
-browser.get('https://softonyx.com/wp-admin/')
+browser.get('https://-----------.com/wp-admin/')
 browser.maximize_window()
 
 log_ = browser.find_element_by_id("user_login")
-log_.send_keys("zeeshan")
+log_.send_keys(user_name)
 
 pass_ = browser.find_element_by_id("user_pass")
-pass_.send_keys("zeeshan123")
+pass_.send_keys(login_pass)
 
 pass_.send_keys(Keys.ENTER)
 
