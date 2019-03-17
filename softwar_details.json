@@ -1,0 +1,6490 @@
+{
+  "3DMark 11": [
+    "3DMark 11",
+    "System Tuning",
+    "1.0.5.0",
+    "Futuremark",
+    "http://www.futuremark.com",
+    "Freeware"
+  ],
+  "3DMark Windows Basic Edition": [
+    "3DMark Windows Basic Edition",
+    "System Tuning",
+    "1.3.708.0",
+    "Futuremark",
+    "http://www.futuremark.com",
+    "Freeware"
+  ],
+  "3DMark03": [
+    "3DMark03",
+    "System Tuning",
+    "3.6.0",
+    "Futuremark",
+    "http://www.futuremark.com",
+    "Freeware"
+  ],
+  "3DMark05": [
+    "3DMark05",
+    "System Tuning",
+    "1.3.0",
+    "Futuremark",
+    "http://www.futuremark.com",
+    "Freeware"
+  ],
+  "3DMark06": [
+    "3DMark06",
+    "System Tuning",
+    "1.2.1",
+    "Futuremark",
+    "http://www.futuremark.com",
+    "Freeware"
+  ],
+  "3uTools": [
+    "3uTools",
+    "System Tuning",
+    "2.32",
+    "3uTools",
+    "http://www.3u.com",
+    "Freeware"
+  ],
+  "Abelssoft Registry Cleaner": [
+    "Abelssoft Registry Cleaner",
+    "System Tuning",
+    "2018.3.01",
+    "Ascora GmbH",
+    "http://www.abelssoft.de",
+    "Commercial Trial"
+  ],
+  "Ace Utilities": [
+    "Ace Utilities",
+    "System Tuning",
+    "6.3.0",
+    "Ace Logix Software",
+    "http://www.acelogix.com",
+    "Shareware"
+  ],
+  "Actual Transparent Window": [
+    "Actual Transparent Window",
+    "System Tuning",
+    "8.13.3",
+    "Actual Tools",
+    "http://www.actualtools.com",
+    "Commercial Trial"
+  ],
+  "Aegis": [
+    "Aegis",
+    "System Tuning",
+    "1.17",
+    "thepower",
+    "http://www.voat.co/user/thepower",
+    "Freeware"
+  ],
+  "AlomWare Reset": [
+    "AlomWare Reset",
+    "System Tuning",
+    "4.02",
+    "AlomWare",
+    "http://www.alomware.com",
+    "Commercial Trial"
+  ],
+  "AOMEI Partition Assistant Standard Edition": [
+    "AOMEI Partition Assistant Standard Edition",
+    "System Tuning",
+    "7.5.1",
+    "AOMEI Technology",
+    "http://www.disk-partition.com",
+    "Freeware"
+  ],
+  "AS SSD Benchmark": [
+    "AS SSD Benchmark",
+    "System Tuning",
+    "2.0.6694",
+    "Alexej Schepeljanski",
+    "http://alex-is.de",
+    "Freeware"
+  ],
+  "Ashampoo WinOptimizer 16": [
+    "Ashampoo WinOptimizer 16",
+    "System Tuning",
+    "16.0.21.0",
+    "Ashampoo GmbH &amp; Co.KG",
+    "http://www.ashampoo.com",
+    "Shareware"
+  ],
+  "atomiccleaner3": [
+    "atomiccleaner3",
+    "System Tuning",
+    "1.3.5.8",
+    "Atomicware",
+    "http://www.atomicware.co.uk",
+    "Freeware"
+  ],
+  "Attribute Changer": [
+    "Attribute Changer",
+    "System Tuning",
+    "9.10d",
+    "Romain Petges",
+    "http://www.petges.lu",
+    "Freeware"
+  ],
+  "Auslogics Boost-speed": [
+    "Auslogics Boost-speed",
+    "System Tuning",
+    "10.0.14.0",
+    "Auslogics Software Pty Ltd",
+    "http://www.auslogics.com",
+    "Commercial Trial"
+  ],
+  "Auslogics Disk Defrag": [
+    "Auslogics Disk Defrag",
+    "System Tuning",
+    "8.0.22.0",
+    "Auslogics Software Pty Ltd",
+    "http://www.auslogics.com",
+    "Freeware"
+  ],
+  "Auslogics Disk Defrag Pro": [
+    "Auslogics Disk Defrag Pro",
+    "System Tuning",
+    "4.9.8.0",
+    "Auslogics Software Pty Ltd",
+    "http://www.auslogics.com",
+    "Commercial Trial"
+  ],
+  "Auslogics Disk Defrag Touch": [
+    "Auslogics Disk Defrag Touch",
+    "System Tuning",
+    "1.3.0.0",
+    "Auslogics Software Pty Ltd",
+    "http://www.auslogics.com",
+    "Freeware"
+  ],
+  "Auslogics Internet Optimizer": [
+    "Auslogics Internet Optimizer",
+    "System Tuning",
+    "2.0.6",
+    "Auslogics Software Pty Ltd",
+    "http://www.auslogics.com",
+    "Commercial Trial"
+  ],
+  "Auslogics Registry Cleaner": [
+    "Auslogics Registry Cleaner",
+    "System Tuning",
+    "7.0.23.0",
+    "Auslogics Software Pty Ltd",
+    "http://www.auslogics.com",
+    "Freeware"
+  ],
+  "Auslogics Registry Defrag": [
+    "Auslogics Registry Defrag",
+    "System Tuning",
+    "11.0.22.0",
+    "Auslogics Software Pty Ltd",
+    "http://www.auslogics.com",
+    "Freeware"
+  ],
+  "Auto Window Manager": [
+    "Auto Window Manager",
+    "System Tuning",
+    "1.5",
+    "Eusing Software",
+    "http://www.eusing.com",
+    "Freeware"
+  ],
+  "Avast Cleanup": [
+    "Avast Cleanup",
+    "System Tuning",
+    "19.1.2360",
+    "Avast Software",
+    "http://www.avast.com",
+    "Commercial Trial"
+  ],
+  "AVG PC TuneUp": [
+    "AVG PC TuneUp",
+    "System Tuning",
+    "18.3.507.0",
+    "AVG Technologies",
+    "http://www.avg.com",
+    "Commercial Trial"
+  ],
+  "Avira Free Software Updater": [
+    "Avira Free Software Updater",
+    "System Tuning",
+    "2.0.4.54899",
+    "Avira GmbH",
+    "http://www.avira.com",
+    "Freeware"
+  ],
+  "Avira Free System Speedup": [
+    "Avira Free System Speedup",
+    "System Tuning",
+    "4.13.0.7681",
+    "Avira GmbH",
+    "http://www.avira.com",
+    "Commercial Trial"
+  ],
+  "Avira Optimization Suite": [
+    "Avira Optimization Suite",
+    "System Tuning",
+    "1.2.128.15911",
+    "Avira GmbH",
+    "http://www.avira.com",
+    "Commercial Trial"
+  ],
+  "AVS Registry Cleaner": [
+    "AVS Registry Cleaner",
+    "System Tuning",
+    "4.1.1.286",
+    "Online Media Technologies Ltd.",
+    "http://www.avs4you.com",
+    "Commercial Trial"
+  ],
+  "Baidu PC Faster": [
+    "Baidu PC Faster",
+    "System Tuning",
+    "5.1",
+    "Baidu",
+    "http://www.baidu.com",
+    "Freeware"
+  ],
+  "Belarc Advisor": [
+    "Belarc Advisor",
+    "System Tuning",
+    "9.0",
+    "Belarc Inc.",
+    "http://www.belarc.com",
+    "Freeware"
+  ],
+  "Black Bird Cleaner": [
+    "Black Bird Cleaner",
+    "System Tuning",
+    "1.0.4.3",
+    "Jorgen Radkevych",
+    "http://www.blackbirdcleaning.com",
+    "Shareware"
+  ],
+  "Black Bird Registry Cleaner": [
+    "Black Bird Registry Cleaner",
+    "System Tuning",
+    "1.0.1.4",
+    "Jorgen Radkevych",
+    "http://www.blackbirdcleaning.com",
+    "Shareware"
+  ],
+  "Black Bird System Info": [
+    "Black Bird System Info",
+    "System Tuning",
+    "1.0.2.2",
+    "Jorgen Radkevych",
+    "http://www.blackbirdcleaning.com",
+    "Shareware"
+  ],
+  "BleachBit": [
+    "BleachBit",
+    "System Tuning",
+    "2.0",
+    "Andrew Ziem",
+    "http://https://www.bleachbit.org",
+    "Open Source"
+  ],
+  "CheckDrive": [
+    "CheckDrive",
+    "System Tuning",
+    "2019.1.31",
+    "Ascora GmbH",
+    "http://www.abelssoft.de",
+    "Commercial Trial"
+  ],
+  "Clean Master for PC Standard Edition": [
+    "Clean Master for PC Standard Edition",
+    "System Tuning",
+    "6.1",
+    "Cheetah Mobile",
+    "http://www.cmcm.com",
+    "Freeware"
+  ],
+  "Clean Space": [
+    "Clean Space",
+    "System Tuning",
+    "7.32",
+    "Mathew Limdonholk",
+    "http://www.cyrobo.com",
+    "Freeware"
+  ],
+  "Comodo Programs Manager": [
+    "Comodo Programs Manager",
+    "System Tuning",
+    "1.3.2.30",
+    "Comodo",
+    "http://www.comodogroup.com",
+    "Freeware"
+  ],
+  "CrystalDiskInfo": [
+    "CrystalDiskInfo",
+    "System Tuning",
+    "8.0.0",
+    "hiyohiyo",
+    "http://www.crystalmark.info",
+    "Freeware"
+  ],
+  "Cydia Cloud": [
+    "Cydia Cloud",
+    "System Tuning",
+    "1.0",
+    "Cydia Cloud",
+    "http://www.cydiacloud.com",
+    "Freeware"
+  ],
+  "DBAN": [
+    "DBAN",
+    "System Tuning",
+    "2.3.0",
+    "Blancco",
+    "http://www.blancco.com",
+    "Open Source"
+  ],
+  "Defender": [
+    "Defender",
+    "System Tuning",
+    "4.1",
+    "GKC ElectroSoft",
+    "http://www.gkclab.com",
+    "Shareware"
+  ],
+  "DiskMax": [
+    "DiskMax",
+    "System Tuning",
+    "6.02",
+    "Koshy John",
+    "http://www.koshyjohn.com",
+    "Freeware"
+  ],
+  "DriverView": [
+    "DriverView",
+    "System Tuning",
+    "1.47",
+    "Nir Sofer",
+    "http://www.nirsoft.net",
+    "Freeware"
+  ],
+  "Eraser": [
+    "Eraser",
+    "System Tuning",
+    "6.2.0.2982",
+    "Eraser",
+    "http://eraser.heidi.ie",
+    "Open Source"
+  ],
+  "Eusing Cleaner": [
+    "Eusing Cleaner",
+    "System Tuning",
+    "5.1",
+    "Eusing Software",
+    "http://www.eusing.com",
+    "Freeware"
+  ],
+  "Eusing Free Registry Defrag": [
+    "Eusing Free Registry Defrag",
+    "System Tuning",
+    "2.3",
+    "Eusing Software",
+    "http://www.eusing.com",
+    "Freeware"
+  ],
+  "Eusing Free Registry Jump": [
+    "Eusing Free Registry Jump",
+    "System Tuning",
+    "2.1",
+    "Eusing Software",
+    "http://www.eusing.com",
+    "Freeware"
+  ],
+  "Eusing Utilities": [
+    "Eusing Utilities",
+    "System Tuning",
+    "2.1",
+    "Eusing Software",
+    "http://www.eusing.com",
+    "Freeware"
+  ],
+  "EVEREST Home Edition": [
+    "EVEREST Home Edition",
+    "System Tuning",
+    "2.20",
+    "Lavalys Consulting Group",
+    "http://www.lavalys.com",
+    "Freeware"
+  ],
+  "f.lux": [
+    "f.lux",
+    "System Tuning",
+    "4.84",
+    "f.lux Software LLC",
+    "http://www.justgetflux.com",
+    "Freeware"
+  ],
+  "FileHippo App Manager": [
+    "FileHippo App Manager",
+    "System Tuning",
+    "2.0 Beta 4",
+    "FileHippo",
+    "http://filehippo.com",
+    "Freeware"
+  ],
+  "FileWing Shredder": [
+    "FileWing Shredder",
+    "System Tuning",
+    "5.1",
+    "Abelssoft",
+    "http://www.abelssoft.com",
+    "Freeware"
+  ],
+  "Folder Size": [
+    "Folder Size",
+    "System Tuning",
+    "2.6",
+    "Folder Size",
+    "http://foldersize.sourceforge.net",
+    "Freeware"
+  ],
+  "FRAPS": [
+    "FRAPS",
+    "System Tuning",
+    "3.5.99 Build 15625",
+    "beepa.com",
+    "http://www.beepa.com",
+    "Shareware"
+  ],
+  "Free Internet Window Washer": [
+    "Free Internet Window Washer",
+    "System Tuning",
+    "3.9",
+    "Eusing Software",
+    "http://www.eusing.com",
+    "Freeware"
+  ],
+  "Free Registry Cleaner": [
+    "Free Registry Cleaner",
+    "System Tuning",
+    "4.2",
+    "Eusing Software",
+    "http://www.eusing.com",
+    "Freeware"
+  ],
+  "FULL-DISKfighter": [
+    "FULL-DISKfighter",
+    "System Tuning",
+    "1.5.2",
+    "SPAMfighter",
+    "http://www.spamfighter.com",
+    "Commercial Demo"
+  ],
+  "GClean": [
+    "GClean",
+    "System Tuning",
+    "2018.147",
+    "Ascora GmbH",
+    "http://www.abelssoft.de",
+    "Commercial Trial"
+  ],
+  "GeekUninstaller": [
+    "GeekUninstaller",
+    "System Tuning",
+    "1.4.5.134",
+    "Thomas Koen",
+    "http://www.geekuninstaller.com",
+    "Freeware"
+  ],
+  "Gilisoft Free Disk Cleaner": [
+    "Gilisoft Free Disk Cleaner",
+    "System Tuning",
+    "2017",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Freeware"
+  ],
+  "Glary Utilities": [
+    "Glary Utilities",
+    "System Tuning",
+    "5.114.0.139",
+    "Glarysoft",
+    "http://www.glarysoft.com/glary-utilities/",
+    "Freeware"
+  ],
+  "GPU-Z": [
+    "GPU-Z",
+    "System Tuning",
+    "2.17.0",
+    "techPowerUp",
+    "http://www.techpowerup.com",
+    "Freeware"
+  ],
+  "GWX Control Panel": [
+    "GWX Control Panel",
+    "System Tuning",
+    "1.7.4.1",
+    "Ultimate Outsider",
+    "http://www.ultimateoutsider.com",
+    "Freeware"
+  ],
+  "WashAndGo": [
+    "WashAndGo",
+    "System Tuning",
+    "19.23.09",
+    "Ascora GmbH",
+    "http://www.abelssoft.de",
+    "Commercial Trial"
+  ],
+  "WinDirStat": [
+    "WinDirStat",
+    "System Tuning",
+    "1.1.2",
+    "WinDirStat",
+    "http://www.windirstat.info/index.html",
+    "Open Source"
+  ],
+  "Window Manager": [
+    "Window Manager",
+    "System Tuning",
+    "6.1.1",
+    "DeskSoft",
+    "http://www.desksoft.com",
+    "Commercial Trial"
+  ],
+  "WinSleep": [
+    "WinSleep",
+    "System Tuning",
+    "1.5.1.0",
+    "Marvin Hymowec",
+    "http://www.molliesoft.com",
+    "Commercial Trial"
+  ],
+  "WinSysClean X7": [
+    "WinSysClean X7",
+    "System Tuning",
+    "19.0.0.800",
+    "Ultimate Systems",
+    "http://www.usro.net",
+    "Freeware"
+  ],
+  "WinUtilities": [
+    "WinUtilities",
+    "System Tuning",
+    "15.48",
+    "YL Software",
+    "http://www.ylcomputing.com",
+    "Freeware"
+  ],
+  "WinZip System Utilities Suite": [
+    "WinZip System Utilities Suite",
+    "System Tuning",
+    "3.3.8.10",
+    "WinZip Computing Inc",
+    "http://www.winzip.com",
+    "Commercial Demo"
+  ],
+  "Wise Auto Shutdown": [
+    "Wise Auto Shutdown",
+    "System Tuning",
+    "1.7.4",
+    "Wise Cleaner",
+    "http://www.wisecleaner.com",
+    "Freeware"
+  ],
+  "Wise Care 365 Free": [
+    "Wise Care 365 Free",
+    "System Tuning",
+    "5.2.7",
+    "Wise Cleaner",
+    "http://www.wisecleaner.com",
+    "Freeware"
+  ],
+  "Wise Disk Cleaner": [
+    "Wise Disk Cleaner",
+    "System Tuning",
+    "10.1.6.765",
+    "Wise Cleaner",
+    "http://www.wisecleaner.com",
+    "Freeware"
+  ],
+  "Wise Force Deleter": [
+    "Wise Force Deleter",
+    "System Tuning",
+    "1.48",
+    "Wise Cleaner",
+    "http://www.wisecleaner.com",
+    "Freeware"
+  ],
+  "Wise Game Booster": [
+    "Wise Game Booster",
+    "System Tuning",
+    "1.53.77",
+    "Wise Cleaner",
+    "http://www.wisecleaner.com",
+    "Freeware"
+  ],
+  "Wise Memory Optimizer": [
+    "Wise Memory Optimizer",
+    "System Tuning",
+    "3.64",
+    "Wise Cleaner",
+    "http://www.wisecleaner.com",
+    "Freeware"
+  ],
+  "Wise Program Uninstaller": [
+    "Wise Program Uninstaller",
+    "System Tuning",
+    "2.3.4.138",
+    "Wise Cleaner",
+    "http://www.wisecleaner.com",
+    "Freeware"
+  ],
+  "Wise Registry Cleaner": [
+    "Wise Registry Cleaner",
+    "System Tuning",
+    "10.1.5.676",
+    "Wise Cleaner",
+    "http://www.wisecleaner.com",
+    "Freeware"
+  ],
+  "Wise System Monitor": [
+    "Wise System Monitor",
+    "System Tuning",
+    "1.49",
+    "Wise Cleaner",
+    "http://www.wisecleaner.com",
+    "Freeware"
+  ],
+  "X-Mouse Button Control": [
+    "X-Mouse Button Control",
+    "System Tuning",
+    "2.18.2",
+    "Phillip Gibbons",
+    "http://www.highrez.co.uk",
+    "Freeware"
+  ],
+  "Xinorbis": [
+    "Xinorbis",
+    "System Tuning",
+    "8.1.10",
+    "Paul Alan Freshney",
+    "http://www.maximumoctopus.com",
+    "Freeware"
+  ],
+  "HitmanPro": [
+    "HitmanPro",
+    "System Tuning",
+    "3.8.10.298",
+    "Sophos Ltd",
+    "http://home.sophos.com/about-us",
+    "Commercial Trial"
+  ],
+  "IObit Advanced SystemCare": [
+    "IObit Advanced SystemCare",
+    "System Tuning",
+    "12.2.0.318",
+    "IObit",
+    "http://www.iobit.com",
+    "Freeware"
+  ],
+  "IObit Uninstaller": [
+    "IObit Uninstaller",
+    "System Tuning",
+    "8.4.0.7",
+    "IObit",
+    "http://www.iobit.com",
+    "Freeware"
+  ],
+  "Iolo DriveScrubber": [
+    "Iolo DriveScrubber",
+    "System Tuning",
+    "2019",
+    "iolo technologies",
+    "http://www.iolo.com",
+    "Commercial Purchase"
+  ],
+  "iPhone Care Pro": [
+    "iPhone Care Pro",
+    "System Tuning",
+    "4.8.0.0",
+    "Tenorshare",
+    "http://www.tenorshare.com",
+    "Commercial Trial"
+  ],
+  "JetBoost": [
+    "JetBoost",
+    "System Tuning",
+    "2.0.0",
+    "BlueSprig Inc.",
+    "http://www.bluesprig.com",
+    "Freeware"
+  ],
+  "JetDrive": [
+    "JetDrive",
+    "System Tuning",
+    "9.9.3",
+    "Ascora GmbH",
+    "http://www.abelssoft.de",
+    "Commercial Trial"
+  ],
+  "KCleaner": [
+    "KCleaner",
+    "System Tuning",
+    "3.6.1",
+    "KC Softwares",
+    "http://www.kcsoftwares.com",
+    "Freeware"
+  ],
+  "Memory Booster": [
+    "Memory Booster",
+    "System Tuning",
+    "1.9.5.1959",
+    "Derick Payne",
+    "http://www.rizonesoft.com",
+    "Open Source"
+  ],
+  "Neptune SystemCare Ultimate": [
+    "Neptune SystemCare Ultimate",
+    "System Tuning",
+    "2.17",
+    "Neptune Technologies",
+    "http://www.neptuneutilities.com",
+    "Shareware"
+  ],
+  "PC Cleaner Perfect": [
+    "PC Cleaner Perfect",
+    "System Tuning",
+    "1.2.7.23",
+    "TEKPC SOLUTIONS",
+    "http://www.tekpcsolutions.com",
+    "Freeware"
+  ],
+  "PC Fresh": [
+    "PC Fresh",
+    "System Tuning",
+    "2019.5",
+    "Abelssoft",
+    "http://www.abelssoft.com",
+    "Commercial Trial"
+  ],
+  "Permadelete": [
+    "Permadelete",
+    "System Tuning",
+    "0.5.2",
+    "Muhammad Yaseen",
+    "http://developerstree.github.io/permadelete/",
+    "Open Source"
+  ],
+  "PrivaZer": [
+    "PrivaZer",
+    "System Tuning",
+    "3.0.61",
+    "PrivaZer",
+    "http://www.privazer.com",
+    "Freeware"
+  ],
+  "Registry Finder": [
+    "Registry Finder",
+    "System Tuning",
+    "2.32.1",
+    "Sergey Filippov",
+    "http://www.registry-finder.com",
+    "Freeware"
+  ],
+  "Secure File Deleter": [
+    "Secure File Deleter",
+    "System Tuning",
+    "6.04",
+    "Mathew Limdonholk",
+    "http://www.cyrobo.com",
+    "Freeware"
+  ],
+  "SLOW-PCfighter": [
+    "SLOW-PCfighter",
+    "System Tuning",
+    "2.1.36",
+    "SPAMfighter",
+    "http://www.spamfighter.com",
+    "Commercial Demo"
+  ],
+  "Soft4Boost Secure Eraser": [
+    "Soft4Boost Secure Eraser",
+    "System Tuning",
+    "5.3.1.989",
+    "Soft4Boost",
+    "http://www.soft4boost.com",
+    "Commercial Trial"
+  ],
+  "StartupStar": [
+    "StartupStar",
+    "System Tuning",
+    "2019.11.3",
+    "Ascora GmbH",
+    "http://www.abelssoft.de",
+    "Commercial Trial"
+  ],
+  "Taskbar Hide": [
+    "Taskbar Hide",
+    "System Tuning",
+    "2.0",
+    "Eusing Software",
+    "http://www.eusing.com",
+    "Freeware"
+  ],
+  "The PC Decrapifier": [
+    "The PC Decrapifier",
+    "System Tuning",
+    "3.0.0",
+    "The PC Decrapifier",
+    "http://www.pcdecrapifier.com",
+    "Freeware"
+  ],
+  "ToolbarTerminator": [
+    "ToolbarTerminator",
+    "System Tuning",
+    "2018.5.1",
+    "Abelssoft",
+    "http://www.abelssoft.com",
+    "Commercial Trial"
+  ],
+  "Tweak UI": [
+    "Tweak UI",
+    "System Tuning",
+    "2.1",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "Tweaking.com Windows Repair": [
+    "Tweaking.com Windows Repair",
+    "System Tuning",
+    "4.1.0",
+    "Tweaking LLC.",
+    "http://www.tweaking.com",
+    "Freeware"
+  ],
+  "Ultimate Windows Tweaker": [
+    "Ultimate Windows Tweaker",
+    "System Tuning",
+    "4.5",
+    "The Windows Club",
+    "http://www.thewindowsclub.com",
+    "Freeware"
+  ],
+  "IObit Smart Defrag": [
+    "IObit Smart Defrag",
+    "System Tuning",
+    "6.1.5.120",
+    "IObit",
+    "http://www.iobit.com",
+    "Freeware"
+  ],
+  "MyDefrag": [
+    "MyDefrag",
+    "System Tuning",
+    "4.3.1",
+    "J C Kessels",
+    "http://www.mydefrag.com",
+    "Freeware"
+  ],
+  "O&O Defrag 2000 Freeware": [
+    "O&O Defrag 2000 Freeware",
+    "System Tuning",
+    "Freeware",
+    "O&amp;O Software",
+    "http://www.oo-software.com",
+    "Freeware"
+  ],
+  "O&O Defrag Free Edition": [
+    "O&O Defrag Free Edition",
+    "System Tuning",
+    "14.1.431",
+    "O&amp;O Software",
+    "http://www.oo-software.com",
+    "Freeware"
+  ],
+  "O&O Defrag Professional": [
+    "O&O Defrag Professional",
+    "System Tuning",
+    "22.0.2284",
+    "O&amp;O Software",
+    "http://www.oo-software.com",
+    "Commercial Trial"
+  ],
+  "O&O SpeedCheck": [
+    "O&O SpeedCheck",
+    "System Tuning",
+    "2.0.45.0",
+    "O&amp;O Software",
+    "http://www.oo-software.com",
+    "Freeware"
+  ],
+  "PerfectDisk Pro": [
+    "PerfectDisk Pro",
+    "System Tuning",
+    "14 Build 893",
+    "Raxco",
+    "http://www.raxco.com",
+    "Commercial Trial"
+  ],
+  "SSD Fresh": [
+    "SSD Fresh",
+    "System Tuning",
+    "2018.7.42",
+    "Ascora GmbH",
+    "http://www.abelssoft.de",
+    "Freeware"
+  ],
+  "UltraDefrag": [
+    "UltraDefrag",
+    "System Tuning",
+    "7.1.0",
+    "UltraDefrag Development Team",
+    "http://ultradefrag.sourceforge.net",
+    "Open Source"
+  ],
+  "HARDiNFO Free": [
+    "HARDiNFO Free",
+    "System Tuning",
+    "8.0",
+    "Ultimate Systems",
+    "http://www.usro.net",
+    "Freeware"
+  ],
+  "Novabench": [
+    "Novabench",
+    "System Tuning",
+    "4.0.6",
+    "Novawave Inc.",
+    "http://www.novawave.ca",
+    "Freeware"
+  ],
+  "PC Mark Vantage": [
+    "PC Mark Vantage",
+    "System Tuning",
+    "1.2.0.0",
+    "Futuremark",
+    "http://www.futuremark.com",
+    "Freeware"
+  ],
+  "PCMark 7 Basic Edition": [
+    "PCMark 7 Basic Edition",
+    "System Tuning",
+    "1.4.0",
+    "Futuremark",
+    "http://www.futuremark.com",
+    "Freeware"
+  ],
+  "PCMark 8 Basic Edition": [
+    "PCMark 8 Basic Edition",
+    "System Tuning",
+    "2.0.228",
+    "Futuremark",
+    "http://www.futuremark.com",
+    "Freeware"
+  ],
+  "Soluto": [
+    "Soluto",
+    "System Tuning",
+    "1.3.1323.0",
+    "Soluto",
+    "http://www.soluto.com",
+    "Freeware"
+  ],
+  "StressMyPC": [
+    "StressMyPC",
+    "System Tuning",
+    "3.33",
+    "SoftwareOK",
+    "http://www.softwareok.com",
+    "Freeware"
+  ],
+  "HissenIT Masterdata": [
+    "HissenIT Masterdata",
+    "System Tuning",
+    "1.0",
+    "Hissen IT",
+    "http://www.frankhissen.de",
+    "Freeware"
+  ],
+  "HWiNFO": [
+    "HWiNFO",
+    "System Tuning",
+    "6.00",
+    "REALiX",
+    "http://www.hwinfo.com",
+    "Freeware"
+  ],
+  "HWMonitor": [
+    "HWMonitor",
+    "System Tuning",
+    "1.38",
+    "Cpuid Software",
+    "http://www.cpuid.com",
+    "Freeware"
+  ],
+  "JDiskReport": [
+    "JDiskReport",
+    "System Tuning",
+    "1.4.1",
+    "JGoodies",
+    "http://www.jgoodies.com",
+    "Freeware"
+  ],
+  "MyKeyFinder": [
+    "MyKeyFinder",
+    "System Tuning",
+    "2019.8",
+    "Abelssoft",
+    "http://www.abelssoft.com",
+    "Commercial Trial"
+  ],
+  "Personal Monitor 2014": [
+    "Personal Monitor 2014",
+    "System Tuning",
+    "2.0.2.002",
+    "exeone",
+    "http://www.exeone.com",
+    "Commercial Trial"
+  ],
+  "Privacy Protector for Windows 10": [
+    "Privacy Protector for Windows 10",
+    "System Tuning",
+    "4.0",
+    "SoftOrbits",
+    "http://www.softorbits.com",
+    "Commercial Trial"
+  ],
+  "Sandra Lite": [
+    "Sandra Lite",
+    "System Tuning",
+    "28.40",
+    "SiSoftware",
+    "http://www.sisoftware.co.uk",
+    "Non-Commercial Freeware"
+  ],
+  "SpeedFan": [
+    "SpeedFan",
+    "System Tuning",
+    "4.52",
+    "Almico",
+    "http://www.almico.com",
+    "Freeware"
+  ],
+  "System Navigator 2014": [
+    "System Navigator 2014",
+    "System Tuning",
+    "5.0.2.001",
+    "exeone",
+    "http://www.exeone.com",
+    "Commercial Trial"
+  ],
+  "Ultimate Settings Panel": [
+    "Ultimate Settings Panel",
+    "System Tuning",
+    "6.3",
+    "A.J. Armstrong",
+    "http://www.techygeekshome.info",
+    "Freeware"
+  ],
+  "ACDSee\u00a0Photo Studio Standard": [
+    "ACDSee\u00a0Photo Studio Standard",
+    "Photos and Images",
+    "21.2.0.818",
+    "ACD Systems",
+    "http://www.acdsystems.com",
+    "Commercial Demo"
+  ],
+  "ActCAD 2018 Professional": [
+    "ActCAD 2018 Professional",
+    "Photos and Images",
+    "8.4.792",
+    "M.Murali Krishna",
+    "http://www.actcad.com",
+    "Commercial Purchase"
+  ],
+  "Adobe Bridge CC": [
+    "Adobe Bridge CC",
+    "Photos and Images",
+    "9.0",
+    "Adobe",
+    "http://www.adobe.com/uk/creativecloud.html",
+    "Freeware"
+  ],
+  "Anastasiy's Extension Manager": [
+    "Anastasiy's Extension Manager",
+    "Photos and Images",
+    "2.03",
+    "Anastasiy",
+    "http://www.anastasiy.com",
+    "Freeware"
+  ],
+  "Animiz": [
+    "Animiz",
+    "Photos and Images",
+    "2.4.1",
+    "Animiz Software Co., Ltd",
+    "http://www.animiz.com",
+    "Shareware"
+  ],
+  "Aurora HDR for Windows": [
+    "Aurora HDR for Windows",
+    "Photos and Images",
+    "1.1.3",
+    "Skylum",
+    "http://www.skylum.com",
+    "Commercial Trial"
+  ],
+  "Corel  Painter": [
+    "Corel  Painter",
+    "Photos and Images",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Corel Aftershot Pro": [
+    "Corel Aftershot Pro",
+    "Photos and Images",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Corel CAD": [
+    "Corel CAD",
+    "Photos and Images",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Corel Paint it!": [
+    "Corel Paint it!",
+    "Photos and Images",
+    "1.0.0.127",
+    "Corel Corporation",
+    "http://www.corel.com",
+    "Commercial Trial"
+  ],
+  "Cyberlink MediaShow": [
+    "Cyberlink MediaShow",
+    "Photos and Images",
+    "6.0.11524",
+    "CyberLink",
+    "http://www.cyberlink.com",
+    "Commercial Trial"
+  ],
+  "DWG FastView 32-Bit": [
+    "DWG FastView 32-Bit",
+    "Photos and Images",
+    "2.5",
+    "Gstarsoft",
+    "http://www.gstarcad.net",
+    "Freeware"
+  ],
+  "DWG FastView 64-Bit": [
+    "DWG FastView 64-Bit",
+    "Photos and Images",
+    "2.5",
+    "Gstarsoft",
+    "http://www.gstarcad.net",
+    "Freeware"
+  ],
+  "FastPictureViewer": [
+    "FastPictureViewer",
+    "Photos and Images",
+    "1.9 Build 360",
+    "Axel Rietschin Software Developments",
+    "http://www.fastpictureviewer.com",
+    "Commercial Trial"
+  ],
+  "Fotor Photo Editor for Windows": [
+    "Fotor Photo Editor for Windows",
+    "Photos and Images",
+    "3.4.1",
+    "Fotor",
+    "http://www.fotor.com",
+    "Freeware"
+  ],
+  "Image Resizer for Windows": [
+    "Image Resizer for Windows",
+    "Photos and Images",
+    "3.1.1",
+    "Brice Lambson",
+    "http://www.bricelam.net",
+    "Freeware"
+  ],
+  "The GIMP": [
+    "The GIMP",
+    "Photos and Images",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "WonderFox Photo Watermark": [
+    "WonderFox Photo Watermark",
+    "Photos and Images",
+    "1.1",
+    "WonderFox Soft, Inc.",
+    "http://www.videoconverterfactory.com",
+    "Commercial Trial"
+  ],
+  "XnView": [
+    "XnView",
+    "Photos and Images",
+    "2.46",
+    "XnView.com",
+    "http://www.xnview.com",
+    "Non-Commercial Freeware"
+  ],
+  "Yasisoft GIF Animator": [
+    "Yasisoft GIF Animator",
+    "Photos and Images",
+    "2.8.1.30",
+    "Yasisoft",
+    "http://www.yasisoft.com/",
+    "Commercial Demo"
+  ],
+  "ZBrush": [
+    "ZBrush",
+    "Photos and Images",
+    "473.32",
+    "Pixologic, Inc",
+    "http://www.pixologic.com",
+    "Commercial Trial"
+  ],
+  "ZXT2007 Image To PDF": [
+    "ZXT2007 Image To PDF",
+    "Photos and Images",
+    "1.7.6.0",
+    "XiaoTong Zhang",
+    "http://en.zxt2007.com",
+    "Freeware"
+  ],
+  "Krita": [
+    "Krita",
+    "Photos and Images",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Muvizu  Play": [
+    "Muvizu  Play",
+    "Photos and Images",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Photo! Editor": [
+    "Photo! Editor",
+    "Photos and Images",
+    "1.1",
+    "Pho.to",
+    "http://pho.to/editor/",
+    "Freeware"
+  ],
+  "Sketchbook Pro": [
+    "Sketchbook Pro",
+    "Photos and Images",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "MAGIX Photo Manager": [
+    "MAGIX Photo Manager",
+    "Photos and Images",
+    "13.1.1.9",
+    "MAGIX",
+    "http://www.magix.com",
+    "Commercial Trial"
+  ],
+  "Stellar Phoenix Photo Recovery Windows": [
+    "Stellar Phoenix Photo Recovery Windows",
+    "Photos and Images",
+    "8.0",
+    "Stellar Information Technology Pvt. Ltd.",
+    "http://send.onenetworkdirect.net/z/8141/CD232294/",
+    "Commercial Trial"
+  ],
+  "iTools for Windows": [
+    "iTools for Windows",
+    "File Sharing",
+    "4.4.3.1",
+    "ThinkSky",
+    "http://www.itools.cn",
+    "Freeware"
+  ],
+  "qBittorrent": [
+    "qBittorrent",
+    "File Sharing",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Zapya": [
+    "Zapya",
+    "File Sharing",
+    "2.7.0.6",
+    "iZapya",
+    "http://www.izapya.com",
+    "Freeware"
+  ],
+  "AIM": [
+    "AIM",
+    "Messaging and Chat",
+    "8.0.7.1",
+    "America Online Inc",
+    "http://www.aol.com",
+    "Freeware"
+  ],
+  "AV Voice Changer Software": [
+    "AV Voice Changer Software",
+    "Messaging and Chat",
+    "7.0.62",
+    "AVSoft Corp.",
+    "http://https://www.audio4fun.com/",
+    "Shareware"
+  ],
+  "AV Voice Changer Software Diamond": [
+    "AV Voice Changer Software Diamond",
+    "Messaging and Chat",
+    "9.5.21.0",
+    "AVSoft Corp.",
+    "http://https://www.audio4fun.com/",
+    "Shareware"
+  ],
+  "AV Voice Changer Software Gold": [
+    "AV Voice Changer Software Gold",
+    "Messaging and Chat",
+    "7.0.62",
+    "AVSoft Corp.",
+    "http://https://www.audio4fun.com/",
+    "Shareware"
+  ],
+  "Camfrog Video Chat": [
+    "Camfrog Video Chat",
+    "Messaging and Chat",
+    "6.30.696",
+    "Camshare Inc.",
+    "http://www.camfrog.com",
+    "Freeware"
+  ],
+  "CheckMail": [
+    "CheckMail",
+    "Messaging and Chat",
+    "5.18.1",
+    "DeskSoft",
+    "http://www.desksoft.com",
+    "Commercial Trial"
+  ],
+  "Compress PST Pro": [
+    "Compress PST Pro",
+    "Messaging and Chat",
+    "1.0",
+    "Softaken Software",
+    "http://www.softaken.com",
+    "Commercial Trial"
+  ],
+  "CoolUtils OST to PST Converter": [
+    "CoolUtils OST to PST Converter",
+    "Messaging and Chat",
+    "2.1",
+    "CoolUtils",
+    "http://www.coolutils.com",
+    "Commercial Trial"
+  ],
+  "Coolutils Outlook Viewer": [
+    "Coolutils Outlook Viewer",
+    "Messaging and Chat",
+    "3.1.1.224",
+    "CoolUtils",
+    "http://www.coolutils.com",
+    "Freeware"
+  ],
+  "CubexSoft MBOX Merger": [
+    "CubexSoft MBOX Merger",
+    "Messaging and Chat",
+    "1.0",
+    "CubexSoft Technologies",
+    "http://www.cubexsoft.com",
+    "Shareware"
+  ],
+  "DataHelp MBOX to PST Wizard": [
+    "DataHelp MBOX to PST Wizard",
+    "Messaging and Chat",
+    "1.0",
+    "Data Help Software",
+    "http://www.datahelpsoftware.com",
+    "Commercial Trial"
+  ],
+  "Digsby": [
+    "Digsby",
+    "Messaging and Chat",
+    "(build 92)",
+    "dotSyntax",
+    "http://www.digsby.com",
+    "Freeware"
+  ],
+  "Droplr": [
+    "Droplr",
+    "Messaging and Chat",
+    "4.0.7",
+    "Droplr, Inc.",
+    "http://https://droplr.com/contact/",
+    "Commercial Demo"
+  ],
+  "EML Wizard": [
+    "EML Wizard",
+    "Messaging and Chat",
+    "2.0",
+    "Turgs",
+    "http://www.turgs.com",
+    "Shareware"
+  ],
+  "Eudora": [
+    "Eudora",
+    "Messaging and Chat",
+    "8.0.0 Beta 9",
+    "QUALCOMM Inc",
+    "http://www.eudora.com",
+    "Freeware"
+  ],
+  "eXo Platform": [
+    "eXo Platform",
+    "Messaging and Chat",
+    "4.2.0",
+    "eXo Platform",
+    "http://www.exoplatform.com",
+    "Open Source"
+  ],
+  "ezTalks": [
+    "ezTalks",
+    "Messaging and Chat",
+    "3.5.0.18",
+    "ezTalks Co.,Ltd",
+    "http://www.eztalks.com",
+    "Freeware"
+  ],
+  "FossaMail": [
+    "FossaMail",
+    "Messaging and Chat",
+    "38.2.0",
+    "Moonchild Productions",
+    "http://www.moonchildproductions.info",
+    "Open Source"
+  ],
+  "GainTools OST to PST Converter": [
+    "GainTools OST to PST Converter",
+    "Messaging and Chat",
+    "1.0.1",
+    "Conrad Williams",
+    "http://www.gaintools.com",
+    "Commercial Demo"
+  ],
+  "Gizmo Project": [
+    "Gizmo Project",
+    "Messaging and Chat",
+    "4.0.5.400",
+    "SIPphone Inc",
+    "http://www.sipphone.com",
+    "Freeware"
+  ],
+  "ICQ": [
+    "ICQ",
+    "Messaging and Chat",
+    "10.0.12417.0",
+    "ICQ Inc",
+    "http://www.icq.com",
+    "Freeware"
+  ],
+  "Imo Messenger for PC Windows": [
+    "Imo Messenger for PC Windows",
+    "Messaging and Chat",
+    "1.2.20",
+    "Pagebites, Inc.",
+    "http://imo.im",
+    "Freeware"
+  ],
+  "IncrediMail": [
+    "IncrediMail",
+    "Messaging and Chat",
+    "2.5 B 6605",
+    "IncrediMail Ltd",
+    "http://www.incredimail.com",
+    "Freeware"
+  ],
+  "IncrediMail Converter": [
+    "IncrediMail Converter",
+    "Messaging and Chat",
+    "7.4",
+    "PC Vare",
+    "http:// www.pcvare.com",
+    "Commercial Trial"
+  ],
+  "Jihosoft WhatsMate": [
+    "Jihosoft WhatsMate",
+    "Messaging and Chat",
+    "1.3.6",
+    "JIHO INC.",
+    "http://www.jiho.com",
+    "Shareware"
+  ],
+  "KDETools OST to PST Converter": [
+    "KDETools OST to PST Converter",
+    "Messaging and Chat",
+    "3.0",
+    "KDETOOLS SOFTWARE",
+    "http://www.kdetools.com",
+    "Commercial Demo"
+  ],
+  "LINE": [
+    "LINE",
+    "Messaging and Chat",
+    "5.13.1.1876",
+    "LINE Corporation",
+    "http://www.line.me",
+    "Freeware"
+  ],
+  "Mailbird": [
+    "Mailbird",
+    "Messaging and Chat",
+    "2.5.14.0",
+    "Mailbird",
+    "http://www.getmailbird.com",
+    "Freeware"
+  ],
+  "Mailify": [
+    "Mailify",
+    "Messaging and Chat",
+    "5.0.3.21",
+    "Sarbacane Software",
+    "http://www.sarbacane.com",
+    "Shareware"
+  ],
+  "MailList Controller Free": [
+    "MailList Controller Free",
+    "Messaging and Chat",
+    "12.9",
+    "Arclab",
+    "http://www.arclab.com",
+    "Freeware"
+  ],
+  "MailsDaddy MBOX to Office 365 Migration Tool": [
+    "MailsDaddy MBOX to Office 365 Migration Tool",
+    "Messaging and Chat",
+    "1.0",
+    "MailsDaddy",
+    "http://www.mailsdaddy.com",
+    "Commercial Trial"
+  ],
+  "MailsDaddy MBOX to PST Converter": [
+    "MailsDaddy MBOX to PST Converter",
+    "Messaging and Chat",
+    "3.0",
+    "MailsDaddy",
+    "http://www.mailsdaddy.com",
+    "Commercial Trial"
+  ],
+  "MailsDaddy OST to Office 365 Migration Tool": [
+    "MailsDaddy OST to Office 365 Migration Tool",
+    "Messaging and Chat",
+    "1.0",
+    "MailsDaddy",
+    "http://www.mailsdaddy.com",
+    "Commercial Trial"
+  ],
+  "MailsDaddy OST to PST Converter": [
+    "MailsDaddy OST to PST Converter",
+    "Messaging and Chat",
+    "2.2",
+    "MailsDaddy",
+    "http://www.mailsdaddy.com",
+    "Commercial Trial"
+  ],
+  "MailsDaddy PST File Converter": [
+    "MailsDaddy PST File Converter",
+    "Messaging and Chat",
+    "2.1",
+    "MailsDaddy",
+    "http://www.mailsdaddy.com",
+    "Commercial Demo"
+  ],
+  "MailsDaddy PST to Office 365 Migration Tool": [
+    "MailsDaddy PST to Office 365 Migration Tool",
+    "Messaging and Chat",
+    "5.3",
+    "MailsDaddy",
+    "http://www.mailsdaddy.com",
+    "Commercial Trial"
+  ],
+  "MailWasher": [
+    "MailWasher",
+    "Messaging and Chat",
+    "7.12.01",
+    "MailWasher",
+    "http://www.mailwasher.net",
+    "Freeware"
+  ],
+  "ManyCam Free": [
+    "ManyCam Free",
+    "Messaging and Chat",
+    "6.7.0",
+    "ManyCam",
+    "http://www.manycam.com",
+    "Freeware"
+  ],
+  "MAPI for Gmail": [
+    "MAPI for Gmail",
+    "Messaging and Chat",
+    "3.0",
+    "Gapps Experts Inc.",
+    "http://www.mapi4gmail.com",
+    "Commercial Demo"
+  ],
+  "Media Player Morpher": [
+    "Media Player Morpher",
+    "Messaging and Chat",
+    "6.2.1",
+    "AVSoft Corp.",
+    "http://https://www.audio4fun.com/",
+    "Shareware"
+  ],
+  "MetroTwit": [
+    "MetroTwit",
+    "Messaging and Chat",
+    "1.1.0",
+    "MetroTwit",
+    "http://www.metrotwit.com",
+    "Freeware"
+  ],
+  "Miranda": [
+    "Miranda",
+    "Messaging and Chat",
+    "0.10.78",
+    "Miranda IM",
+    "http://www.miranda-im.org",
+    "Open Source"
+  ],
+  "Miranda NG": [
+    "Miranda NG",
+    "Messaging and Chat",
+    "0.95.10",
+    "Miranda NG Team",
+    "http://www.miranda-ng.org/en/",
+    "Open Source"
+  ],
+  "mIRC": [
+    "mIRC",
+    "Messaging and Chat",
+    "7.54",
+    "mIRC Co Ltd",
+    "http://www.mirc.com",
+    "Shareware"
+  ],
+  "MSG Wizard": [
+    "MSG Wizard",
+    "Messaging and Chat",
+    "2.0",
+    "Turgs",
+    "http://www.turgs.com",
+    "Shareware"
+  ],
+  "Mumble": [
+    "Mumble",
+    "Messaging and Chat",
+    "1.2.19",
+    "Thorvald Natvig",
+    "http://www.mumble.sourceforge.net",
+    "Open Source"
+  ],
+  "NCH Broadcam": [
+    "NCH Broadcam",
+    "Messaging and Chat",
+    "2.35",
+    "NCH Software",
+    "http://www.nchsoftware.com",
+    "Commercial Demo"
+  ],
+  "Nimbuzz!": [
+    "Nimbuzz!",
+    "Messaging and Chat",
+    "2.9.5",
+    "Nimbuzz",
+    "http://www.nimbuzz.com",
+    "Freeware"
+  ],
+  "NK2Edit": [
+    "NK2Edit",
+    "Messaging and Chat",
+    "3.38",
+    "Nir Sofer",
+    "http://www.nirsoft.net",
+    "Freeware"
+  ],
+  "ooVoo": [
+    "ooVoo",
+    "Messaging and Chat",
+    "3.7.1.13",
+    "ooVoo LLC",
+    "http://www.oovoo.com",
+    "Freeware"
+  ],
+  "OST2PST Converter": [
+    "OST2PST Converter",
+    "Messaging and Chat",
+    "4.1",
+    "OST2PSTWARE",
+    "http://www.ost2pstware.com",
+    "Commercial Trial"
+  ],
+  "OST2PST Viewer": [
+    "OST2PST Viewer",
+    "Messaging and Chat",
+    "4.1.0.0",
+    "OST2PSTWARE",
+    "http://www.ost2pstware.com",
+    "Freeware"
+  ],
+  "OutlookAttachView": [
+    "OutlookAttachView",
+    "Messaging and Chat",
+    "3.13",
+    "Nir Sofer",
+    "http://www.nirsoft.net",
+    "Freeware"
+  ],
+  "Output Messenger": [
+    "Output Messenger",
+    "Messaging and Chat",
+    "1.9.17",
+    "Srimax Software System Private Limited",
+    "http://www.srimax.com",
+    "Shareware"
+  ],
+  "Pegasus Mail": [
+    "Pegasus Mail",
+    "Messaging and Chat",
+    "4.73",
+    "David Harris",
+    "http://www.pmail.com",
+    "Freeware"
+  ],
+  "Postbox": [
+    "Postbox",
+    "Messaging and Chat",
+    "6.1.11",
+    "Postbox Inc",
+    "http://www.postbox-inc.com",
+    "Commercial Trial"
+  ],
+  "PST Contacts Wizard": [
+    "PST Contacts Wizard",
+    "Messaging and Chat",
+    "2.0",
+    "Turgs",
+    "http://www.turgs.com",
+    "Shareware"
+  ],
+  "PST Wizard": [
+    "PST Wizard",
+    "Messaging and Chat",
+    "4.5",
+    "Turgs",
+    "http://www.turgs.com",
+    "Shareware"
+  ],
+  "QQ International": [
+    "QQ International",
+    "Messaging and Chat",
+    "2.11",
+    "Tencent",
+    "http://www.imqq.com",
+    "Freeware"
+  ],
+  "Regain EML to PST Converter": [
+    "Regain EML to PST Converter",
+    "Messaging and Chat",
+    "1.0.0.4",
+    "Regain Software",
+    "http://www.regainsoftware.com",
+    "Commercial Trial"
+  ],
+  "Regain OST to PST Converter": [
+    "Regain OST to PST Converter",
+    "Messaging and Chat",
+    "17.0.07.21",
+    "Regain Software",
+    "http://www.regainsoftware.com",
+    "Shareware"
+  ],
+  "Roundcube Webmail": [
+    "Roundcube Webmail",
+    "Messaging and Chat",
+    "1.1.4",
+    "Round cube Team",
+    "http://www.roundcube.net",
+    "Open Source"
+  ],
+  "SAM": [
+    "SAM",
+    "Messaging and Chat",
+    "5.0.0.7",
+    "",
+    "http://",
+    ""
+  ],
+  "Softaken OST File Exporter": [
+    "Softaken OST File Exporter",
+    "Messaging and Chat",
+    "3.0",
+    "Softaken Software",
+    "http://www.softaken.com",
+    "Commercial Trial"
+  ],
+  "SoftTweak MBOX to PDF": [
+    "SoftTweak MBOX to PDF",
+    "Messaging and Chat",
+    "4.0",
+    "SoftTweak Inc.",
+    "http://www.softweak.com",
+    "Shareware"
+  ],
+  "SoftTweak OST to PST": [
+    "SoftTweak OST to PST",
+    "Messaging and Chat",
+    "4.0",
+    "SoftTweak Inc.",
+    "http://www.softweak.com",
+    "Shareware"
+  ],
+  "Software Imperial OST to PST Converter Recovery": [
+    "Software Imperial OST to PST Converter Recovery",
+    "Messaging and Chat",
+    "2.2",
+    "Software Imperial Group",
+    "http://www.softwareimperial.com",
+    "Shareware"
+  ],
+  "Spamihilator": [
+    "Spamihilator",
+    "Messaging and Chat",
+    "1.6.0.0",
+    "Michel Kramer",
+    "http://www.spamihilator.com",
+    "Freeware"
+  ],
+  "ZOOK MBOX to NSF Converter": [
+    "ZOOK MBOX to NSF Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK MBOX to PDF Converter": [
+    "ZOOK MBOX to PDF Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK MBOX to PST Converter": [
+    "ZOOK MBOX to PST Converter",
+    "Messaging and Chat",
+    "3.1",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK MSG to EML Converter": [
+    "ZOOK MSG to EML Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK MSG to EMLX Converter": [
+    "ZOOK MSG to EMLX Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK MSG to MBOX Converter": [
+    "ZOOK MSG to MBOX Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK MSG to PDF Converter": [
+    "ZOOK MSG to PDF Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK MSG to PST Converter": [
+    "ZOOK MSG to PST Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK OST to EML Converter": [
+    "ZOOK OST to EML Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK OST to EMLX Converter": [
+    "ZOOK OST to EMLX Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK OST to MBOX Converter": [
+    "ZOOK OST to MBOX Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK OST to MSG Converter": [
+    "ZOOK OST to MSG Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK OST to PDF Converter": [
+    "ZOOK OST to PDF Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK OST to PST Converter": [
+    "ZOOK OST to PST Converter",
+    "Messaging and Chat",
+    "4.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK PST to EML Converter": [
+    "ZOOK PST to EML Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK PST to EMLX Converter": [
+    "ZOOK PST to EMLX Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK PST to MBOX Converter": [
+    "ZOOK PST to MBOX Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK PST to MSG Converter": [
+    "ZOOK PST to MSG Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK PST to PDF Converter": [
+    "ZOOK PST to PDF Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "Stellar OST to PST Converter": [
+    "Stellar OST to PST Converter",
+    "Messaging and Chat",
+    "8.0",
+    "Stellar Information Technology Pvt. Ltd.",
+    "http://send.onenetworkdirect.net/z/8141/CD232294/",
+    "Commercial Trial"
+  ],
+  "Stellar Phoenix Outlook PST Repair": [
+    "Stellar Phoenix Outlook PST Repair",
+    "Messaging and Chat",
+    "8.0",
+    "Stellar Information Technology Pvt. Ltd.",
+    "http://send.onenetworkdirect.net/z/8141/CD232294/",
+    "Commercial Trial"
+  ],
+  "Stellar Windows Live Mail to PST Converter": [
+    "Stellar Windows Live Mail to PST Converter",
+    "Messaging and Chat",
+    "2.0",
+    "Stellar Information Technology Pvt. Ltd.",
+    "http://send.onenetworkdirect.net/z/8141/CD232294/",
+    "Commercial Demo"
+  ],
+  "SysTools Exchange Recovery": [
+    "SysTools Exchange Recovery",
+    "Messaging and Chat",
+    "8.0",
+    "SysTools Software",
+    "http://www.systoolsgroup.com",
+    "Commercial Trial"
+  ],
+  "SysTools MailPro+": [
+    "SysTools MailPro+",
+    "Messaging and Chat",
+    "1.0",
+    "SysTools Software",
+    "http://www.systoolsgroup.com",
+    "Commercial Trial"
+  ],
+  "SysTools MBOX to Outlook Converter": [
+    "SysTools MBOX to Outlook Converter",
+    "Messaging and Chat",
+    "4.0",
+    "SysTools Software",
+    "http://www.systoolsgroup.com",
+    "Commercial Trial"
+  ],
+  "The Bat!": [
+    "The Bat!",
+    "Messaging and Chat",
+    "8.8.2",
+    "RITLABS",
+    "http://www.ritlabs.com",
+    "Commercial Trial"
+  ],
+  "Total Outlook Express Converter": [
+    "Total Outlook Express Converter",
+    "Messaging and Chat",
+    "4.1.10",
+    "CoolUtils",
+    "http://www.coolutils.com",
+    "Commercial Trial"
+  ],
+  "Total Thunderbird Converter": [
+    "Total Thunderbird Converter",
+    "Messaging and Chat",
+    "4.1.0.264",
+    "CoolUtils",
+    "http://www.coolutils.com",
+    "Freeware"
+  ],
+  "Total Webmail Converter": [
+    "Total Webmail Converter",
+    "Messaging and Chat",
+    "4.1.0.215",
+    "CoolUtils",
+    "http://www.coolutils.com",
+    "Commercial Trial"
+  ],
+  "vMail OST to PST Converter": [
+    "vMail OST to PST Converter",
+    "Messaging and Chat",
+    "7.5",
+    "vsoftware",
+    "http://www.vsoftware.org",
+    "Shareware"
+  ],
+  "Windows Live Mail": [
+    "Windows Live Mail",
+    "Messaging and Chat",
+    "16.4.3528",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "Zimbra TGZ to PST Converter": [
+    "Zimbra TGZ to PST Converter",
+    "Messaging and Chat",
+    "8.3",
+    "SoftSpire Solutions",
+    "http://www.softspire.com",
+    "Shareware"
+  ],
+  "ZOOK DBX to EML Converter": [
+    "ZOOK DBX to EML Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK DBX to EMLX Converter": [
+    "ZOOK DBX to EMLX Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK DBX to MBOX Converter": [
+    "ZOOK DBX to MBOX Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK DBX to MSG Converter": [
+    "ZOOK DBX to MSG Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK DBX to PDF Converter": [
+    "ZOOK DBX to PDF Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "Zook DBX to PST Converter": [
+    "Zook DBX to PST Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK Email Backup Wizard": [
+    "ZOOK Email Backup Wizard",
+    "Messaging and Chat",
+    "3.1",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Demo"
+  ],
+  "ZOOK EML to EMLX Converter": [
+    "ZOOK EML to EMLX Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK EML to MBOX Converter": [
+    "ZOOK EML to MBOX Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK EML to MSG Converter": [
+    "ZOOK EML to MSG Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK EML to PDF Converter": [
+    "ZOOK EML to PDF Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK EML to PST Converter": [
+    "ZOOK EML to PST Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK MBOX to EML Converter": [
+    "ZOOK MBOX to EML Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "ZOOK MBOX to MSG Converter": [
+    "ZOOK MBOX to MSG Converter",
+    "Messaging and Chat",
+    "3.0",
+    "ZOOK Software",
+    "http://www.zooksoftware.com",
+    "Commercial Trial"
+  ],
+  "Teampel": [
+    "Teampel",
+    "Messaging and Chat",
+    "3.3.0",
+    "ZEON CORPORATION",
+    "http://www.teampel.com",
+    "Commercial Trial"
+  ],
+  "Trillian": [
+    "Trillian",
+    "Messaging and Chat",
+    "6.1.0.17",
+    "Cerulean Studios",
+    "http://www.ceruleanstudios.com",
+    "Freeware"
+  ],
+  "Viber for Windows": [
+    "Viber for Windows",
+    "Messaging and Chat",
+    "10.2.0.38",
+    "Viber Media S.\u00e0 r.l.",
+    "http://www.viber.com",
+    "Freeware"
+  ],
+  "WhatsApp Desktop App for PC Windows": [
+    "WhatsApp Desktop App for PC Windows",
+    "Messaging and Chat",
+    "0.3.1847",
+    "WhatsApp Inc.",
+    "http://www.whatsapp.com",
+    "Freeware"
+  ],
+  "XChat": [
+    "XChat",
+    "Messaging and Chat",
+    "2.8.9",
+    "XChat.org",
+    "http://www.xchat.org",
+    "Open Source"
+  ],
+  "Yahoo! Messenger": [
+    "Yahoo! Messenger",
+    "Messaging and Chat",
+    "11.5.0.228",
+    "Yahoo! Inc",
+    "http://www.yahoo.com",
+    "Freeware"
+  ],
+  "TeamSpeak": [
+    "TeamSpeak",
+    "Messaging and Chat",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "TeamTalk": [
+    "TeamTalk",
+    "Messaging and Chat",
+    "5.3.3",
+    "BearWare.dk",
+    "http://www.bearware.dk",
+    "Freeware"
+  ],
+  "Corel DVD MovieFactory": [
+    "Corel DVD MovieFactory",
+    "CD and DVD Tools",
+    "7 7.00.398.0",
+    "Corel Corporation",
+    "http://www.corel.com",
+    "Commercial Trial"
+  ],
+  "Cyberlink Power2Go 12": [
+    "Cyberlink Power2Go 12",
+    "CD and DVD Tools",
+    "12.0.0516.0",
+    "CyberLink",
+    "http://www.cyberlink.com",
+    "Commercial Trial"
+  ],
+  "Cyberlink PowerDVD": [
+    "Cyberlink PowerDVD",
+    "CD and DVD Tools",
+    "18.0.2305.62",
+    "CyberLink",
+    "http://www.cyberlink.com",
+    "Commercial Demo"
+  ],
+  "Cyberlink PowerProducer": [
+    "Cyberlink PowerProducer",
+    "CD and DVD Tools",
+    "6 B 3406c",
+    "CyberLink",
+    "http://www.cyberlink.com",
+    "Commercial Demo"
+  ],
+  "DVDFab": [
+    "DVDFab",
+    "CD and DVD Tools",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Express Burn Plus Edition": [
+    "Express Burn Plus Edition",
+    "CD and DVD Tools",
+    "7.09",
+    "NCH Software",
+    "http://www.nchsoftware.com",
+    "Commercial Trial"
+  ],
+  "Nero Burning ROM 2019": [
+    "Nero Burning ROM 2019",
+    "CD and DVD Tools",
+    "1.12.0.1",
+    "Nero AG",
+    "http://www.nero.com/enu/",
+    "Commercial Trial"
+  ],
+  "Roxio Easy CD & DVD Burning": [
+    "Roxio Easy CD & DVD Burning",
+    "CD and DVD Tools",
+    "2016",
+    "Corel Corporation",
+    "http://www.corel.com",
+    "Commercial Purchase"
+  ],
+  "VideoSolo DVD Creator": [
+    "VideoSolo DVD Creator",
+    "CD and DVD Tools",
+    "1.2.20",
+    "VideoSolo",
+    "http://www.videosolo.com",
+    "Shareware"
+  ],
+  ".NET Framework": [
+    ".NET Framework",
+    "Drivers",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Avast Driver Updater": [
+    "Avast Driver Updater",
+    "Drivers",
+    "2.4.0",
+    "Avast Software",
+    "http://www.avast.com",
+    "Commercial Demo"
+  ],
+  "AVG Driver Updater": [
+    "AVG Driver Updater",
+    "Drivers",
+    "2.4.0",
+    "AVG Technologies",
+    "http://www.avg.com",
+    "Commercial Demo"
+  ],
+  "DRIVERfighter": [
+    "DRIVERfighter",
+    "Drivers",
+    "1.2.2",
+    "SPAMfighter",
+    "http://www.spamfighter.com",
+    "Commercial Demo"
+  ],
+  "Intel PRO/Wireless and WiFi Link Drivers": [
+    "Intel PRO/Wireless and WiFi Link Drivers",
+    "Drivers",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "IObit Driver Booster Free": [
+    "IObit Driver Booster Free",
+    "Drivers",
+    "6.3.0.276",
+    "IObit",
+    "http://www.iobit.com",
+    "Freeware"
+  ],
+  "Logitech SetPoint": [
+    "Logitech SetPoint",
+    "Drivers",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "NVIDIA nForce": [
+    "NVIDIA nForce",
+    "Drivers",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Realtek AC'97 Driver": [
+    "Realtek AC'97 Driver",
+    "Drivers",
+    "A4.06",
+    "Realtek",
+    "http://www.realtek.com.tw",
+    "Freeware"
+  ],
+  "Realtek High Definition Audio": [
+    "Realtek High Definition Audio",
+    "Drivers",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Wise Driver Care": [
+    "Wise Driver Care",
+    "Drivers",
+    "2.3.301.1010",
+    "Wise Cleaner",
+    "http://www.wisecleaner.com",
+    "Commercial Trial"
+  ],
+  "FOCA": [
+    "FOCA",
+    "Networking and Admin",
+    "3.0",
+    "Informatica64",
+    "http://www.informatica64.com",
+    "Freeware"
+  ],
+  "HJSplit": [
+    "HJSplit",
+    "Networking and Admin",
+    "3.0",
+    "FreeByte",
+    "http://www.freebyte.com",
+    "Commercial Trial"
+  ],
+  "ITBrain by TeamViewer": [
+    "ITBrain by TeamViewer",
+    "Networking and Admin",
+    "2018",
+    "TeamViewer GmbH",
+    "http://www.teamviewer.com",
+    "Commercial Purchase"
+  ],
+  "NetSpot for Windows": [
+    "NetSpot for Windows",
+    "Networking and Admin",
+    "2.10.1.680",
+    "Etwok",
+    "http://www.netspotapp.com",
+    "Freeware"
+  ],
+  "Paragon Hard Disk Manager": [
+    "Paragon Hard Disk Manager",
+    "Networking and Admin",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Windows USB/DVD Download Tool": [
+    "Windows USB/DVD Download Tool",
+    "Networking and Admin",
+    "1.0.24.0",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "Solarwinds Engineer's Toolset": [
+    "Solarwinds Engineer's Toolset",
+    "Networking and Admin",
+    "11.06",
+    "SolarWinds Worldwide, LLC.",
+    "http://www.solarwinds.com",
+    "Commercial Trial"
+  ],
+  "Data Access Components for MySQL": [
+    "Data Access Components for MySQL",
+    "Developer Tools",
+    "10.2",
+    "Devart",
+    "http://www.devart.com",
+    "Commercial Trial"
+  ],
+  "dbForge Data Generator for SQL Server": [
+    "dbForge Data Generator for SQL Server",
+    "Developer Tools",
+    "4.0.71",
+    "Devart",
+    "http://www.devart.com",
+    "Commercial Trial"
+  ],
+  "dbForge Search for SQL Server": [
+    "dbForge Search for SQL Server",
+    "Developer Tools",
+    "2.0.19",
+    "Devart",
+    "http://www.devart.com",
+    "Freeware"
+  ],
+  "dbForge Studio for MySQL": [
+    "dbForge Studio for MySQL",
+    "Developer Tools",
+    "8.0.80",
+    "Devart",
+    "http://www.devart.com",
+    "Commercial Trial"
+  ],
+  "Genymotion": [
+    "Genymotion",
+    "Developer Tools",
+    "2.12.2",
+    "Genymobile",
+    "http://www.genymobile.com",
+    "Freeware"
+  ],
+  "Genymotion for Mac": [
+    "Genymotion for Mac",
+    "Developer Tools",
+    "2.12.2",
+    "Genymobile",
+    "http://www.genymobile.com",
+    ""
+  ],
+  "HxD Hex Editor": [
+    "HxD Hex Editor",
+    "Developer Tools",
+    "2.2.0.0",
+    "Ma\u00ebl H\u00f6rz",
+    "http://www.mh-nexus.de",
+    "Freeware"
+  ],
+  "Java Development Kit 32-bit": [
+    "Java Development Kit 32-bit",
+    "Developer Tools",
+    "8 Update 181",
+    "Oracle",
+    "http://www.oracle.com",
+    "Freeware"
+  ],
+  "Java Development Kit 64-bit": [
+    "Java Development Kit 64-bit",
+    "Developer Tools",
+    "10.0.2",
+    "Oracle",
+    "http://www.oracle.com",
+    "Freeware"
+  ],
+  "Java Runtime Environment 32-bit": [
+    "Java Runtime Environment 32-bit",
+    "Developer Tools",
+    "8.0 build 201",
+    "Oracle",
+    "http://www.oracle.com",
+    "Freeware"
+  ],
+  "Java Runtime Environment 64-bit": [
+    "Java Runtime Environment 64-bit",
+    "Developer Tools",
+    "8.0 build 201",
+    "Oracle",
+    "http://www.oracle.com",
+    "Freeware"
+  ],
+  "Lines Code Editor": [
+    "Lines Code Editor",
+    "Developer Tools",
+    "2.0",
+    "Creatix",
+    "http://www.creatixbih.com",
+    "Freeware"
+  ],
+  "Microsoft Windows SDK for Windows 7 and .NET Framework 4": [
+    "Microsoft Windows SDK for Windows 7 and .NET Framework 4",
+    "Developer Tools",
+    "7.1",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "VMware Workstation Player": [
+    "VMware Workstation Player",
+    "Developer Tools",
+    "15.0",
+    "VMware Inc",
+    "http://www.vmware.com",
+    "Freeware"
+  ],
+  "XShell": [
+    "XShell",
+    "Developer Tools",
+    "6.0.0107",
+    "NetSarang Computer, Inc.",
+    "http://www.netsarang.com",
+    "Commercial Demo"
+  ],
+  "Virtual PC": [
+    "Virtual PC",
+    "Developer Tools",
+    "2007 Sp1",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "Avira Free Phantom VPN": [
+    "Avira Free Phantom VPN",
+    "VPNs/Privacy",
+    "2.19.3.24127",
+    "Avira GmbH",
+    "http://www.avira.com",
+    "Freeware"
+  ],
+  "Buffered VPN": [
+    "Buffered VPN",
+    "VPNs/Privacy",
+    "2.18",
+    "Buffered",
+    "http://buffered.com",
+    "Commercial Trial"
+  ],
+  "Business VPN by KeepSolid": [
+    "Business VPN by KeepSolid",
+    "VPNs/Privacy",
+    "1.2",
+    "KeepSolid",
+    "http://www.keepsolid.com",
+    "Commercial Purchase"
+  ],
+  "CyberGhost VPN": [
+    "CyberGhost VPN",
+    "VPNs/Privacy",
+    "6.5.2.3457",
+    "CyberGhost",
+    "http://www.cyberghostvpn.com",
+    "Commercial Trial"
+  ],
+  "Express VPN": [
+    "Express VPN",
+    "VPNs/Privacy",
+    "6.6",
+    "ExpressVPN",
+    "http://www.expressvpn.com",
+    "Commercial Trial"
+  ],
+  "F-Secure FREEDOME VPN": [
+    "F-Secure FREEDOME VPN",
+    "VPNs/Privacy",
+    "2.23.5653.0",
+    "F-Secure Corporation",
+    "http://www.fsecure.com",
+    "Commercial Trial"
+  ],
+  "FastestVPN": [
+    "FastestVPN",
+    "VPNs/Privacy",
+    "2018",
+    "FastestVPN",
+    "http://www.fastestvpn.com",
+    "Commercial Purchase"
+  ],
+  "GOOSE VPN": [
+    "GOOSE VPN",
+    "VPNs/Privacy",
+    "2018",
+    "GOOSE",
+    "http://goosevpn.com",
+    "Commercial Purchase"
+  ],
+  "Hide.me VPN": [
+    "Hide.me VPN",
+    "VPNs/Privacy",
+    "2.2.2",
+    "eVenture Ltd.",
+    "http://hide.me",
+    "Commercial Trial"
+  ],
+  "HMA! Pro VPN": [
+    "HMA! Pro VPN",
+    "VPNs/Privacy",
+    "4.2.129",
+    "HideMyAss VPN",
+    "http://www.hidemyass.com",
+    "Commercial Purchase"
+  ],
+  "Iolo ByePass": [
+    "Iolo ByePass",
+    "VPNs/Privacy",
+    "2018",
+    "iolo technologies",
+    "http://www.iolo.com",
+    "Commercial Purchase"
+  ],
+  "Iolo Privacy Guardian": [
+    "Iolo Privacy Guardian",
+    "VPNs/Privacy",
+    "1.0.8.2",
+    "iolo technologies",
+    "http://www.iolo.com",
+    "Commercial Demo"
+  ],
+  "IPVanish VPN": [
+    "IPVanish VPN",
+    "VPNs/Privacy",
+    "3.2.5.1",
+    "IPVanish",
+    "http://www.ipvanish.com",
+    "Shareware"
+  ],
+  "Ivacy VPN": [
+    "Ivacy VPN",
+    "VPNs/Privacy",
+    "5.0.4.0",
+    "PMG Pte. Ltd.",
+    "http://www.ivacy.com",
+    "Commercial Trial"
+  ],
+  "Kaspersky Safe Kids": [
+    "Kaspersky Safe Kids",
+    "VPNs/Privacy",
+    "1.0.4.304",
+    "Kaspersky",
+    "http://www.kaspersky.com",
+    "Commercial Trial"
+  ],
+  "Le VPN": [
+    "Le VPN",
+    "VPNs/Privacy",
+    "2018",
+    "Le VPN",
+    "http://www.le-vpn.com",
+    "Commercial Purchase"
+  ],
+  "mySteganos Online Shield VPN": [
+    "mySteganos Online Shield VPN",
+    "VPNs/Privacy",
+    "1.1.0.10270",
+    "Steganos Software GmbH",
+    "http://www.steganos.com",
+    "Commercial Trial"
+  ],
+  "Nord VPN": [
+    "Nord VPN",
+    "VPNs/Privacy",
+    "6.19.6.0",
+    "NordVPN.com",
+    "http://NordVPN.com",
+    "Commercial Trial"
+  ],
+  "Panda VPN": [
+    "Panda VPN",
+    "VPNs/Privacy",
+    "15.14.4.0",
+    "Panda Security",
+    "http://www.pandasecurity.com",
+    "Commercial Trial"
+  ],
+  "Privacy Eraser Free": [
+    "Privacy Eraser Free",
+    "VPNs/Privacy",
+    "4.48.0.2791",
+    "Cybertron Software Company Ltd.",
+    "http://www.cybertronsoft.com",
+    "Freeware"
+  ],
+  "Private Internet Access VPN": [
+    "Private Internet Access VPN",
+    "VPNs/Privacy",
+    "82.0",
+    "London Trust Media",
+    "http://londontrustmedia.com",
+    "Commercial Trial"
+  ],
+  "PureVPN": [
+    "PureVPN",
+    "VPNs/Privacy",
+    "6.2.1",
+    "PureVPN",
+    "http://www.purevpn.com",
+    "Commercial Purchase"
+  ],
+  "Safer VPN": [
+    "Safer VPN",
+    "VPNs/Privacy",
+    "4.4.1.0",
+    "Safer Social ltd.",
+    "http://safervpn.com",
+    "Commercial Trial"
+  ],
+  "TorGuard VPN": [
+    "TorGuard VPN",
+    "VPNs/Privacy",
+    "3.86.1",
+    "TorGuard.net",
+    "http://TorGuard.net",
+    "Commercial Demo"
+  ],
+  "Trust.Zone VPN": [
+    "Trust.Zone VPN",
+    "VPNs/Privacy",
+    "1.0 build 1031",
+    "Trust.Zone",
+    "http://trust.zone",
+    "Commercial Trial"
+  ],
+  "TunnelBear": [
+    "TunnelBear",
+    "VPNs/Privacy",
+    "3.7.6",
+    "TunnelBear Inc.",
+    "http://www.tunnelbear.com",
+    "Freeware"
+  ],
+  "VIPRE Identity Shield": [
+    "VIPRE Identity Shield",
+    "VPNs/Privacy",
+    "2.1.1",
+    "Vipre",
+    "http://https://www.vipre.com/",
+    "Commercial Trial"
+  ],
+  "VPN Unlimited": [
+    "VPN Unlimited",
+    "VPNs/Privacy",
+    "5.2.0.0",
+    "KeepSolid",
+    "http://www.keepsolid.com",
+    "Commercial Trial"
+  ],
+  "Windscribe VPN": [
+    "Windscribe VPN",
+    "VPNs/Privacy",
+    "1.82.17",
+    "Windscribe Limited",
+    "http://www.windscribe.com",
+    "Commercial Trial"
+  ],
+  "ZenMate VPN For Chrome": [
+    "ZenMate VPN For Chrome",
+    "Browsers and Plugins",
+    "6.4.0",
+    "ZenMate",
+    "http://www.zenmate.com",
+    "Commercial Trial"
+  ],
+  "ZoogVPN": [
+    "ZoogVPN",
+    "VPNs/Privacy",
+    "4.0.14",
+    "Zoog Services PC",
+    "http://zoogvpn.com",
+    "Commercial Trial"
+  ],
+  "Avast Free Antivirus": [
+    "Avast Free Antivirus",
+    "Anti-Malware",
+    "19.2.2364",
+    "Avast Software",
+    "http://www.avast.com",
+    "Non-Commercial Freeware"
+  ],
+  "360 Total Security Free Antivirus": [
+    "360 Total Security Free Antivirus",
+    "Anti-Malware",
+    "10.2.0.1309",
+    "QIHU 360",
+    "http://www.360totalsecurity.com/",
+    "Freeware"
+  ],
+  "AVG AntiVirus FREE": [
+    "AVG AntiVirus FREE",
+    "Anti-Malware",
+    "19.2.3079",
+    "AVG Technologies",
+    "http://www.avg.com",
+    "Freeware"
+  ],
+  "AVG Internet Security 2019": [
+    "AVG Internet Security 2019",
+    "Anti-Malware",
+    "19.1.2360",
+    "AVG Technologies",
+    "http://www.avg.com",
+    "Commercial Trial"
+  ],
+  "AVG Ultimate for PC Windows": [
+    "AVG Ultimate for PC Windows",
+    "Anti-Malware",
+    "2019",
+    "AVG Technologies",
+    "http://www.avg.com",
+    "Commercial Purchase"
+  ],
+  "Avira Prime for Mac": [
+    "Avira Prime for Mac",
+    "Anti-Malware",
+    "2018",
+    "Avira GmbH",
+    "http://www.avira.com",
+    "Commercial Purchase"
+  ],
+  "ClamWin": [
+    "ClamWin",
+    "Anti-Malware",
+    "0.99.4",
+    "ClamWin",
+    "http://www.clamwin.com",
+    "Open Source"
+  ],
+  "Comodo Endpoint Security": [
+    "Comodo Endpoint Security",
+    "Anti-Malware",
+    "2018",
+    "Comodo",
+    "http://www.comodogroup.com",
+    "Commercial Demo"
+  ],
+  "ESET Internet Security 2018": [
+    "ESET Internet Security 2018",
+    "Anti-Malware",
+    "12.0.31.0",
+    "ESET",
+    "http://www.eset.com",
+    "Commercial Trial"
+  ],
+  "ESET Smart Security": [
+    "ESET Smart Security",
+    "Anti-Malware",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "ESET Smart Security Premium 32-bit": [
+    "ESET Smart Security Premium 32-bit",
+    "Anti-Malware",
+    "11.2.49.0",
+    "ESET",
+    "http://www.eset.com",
+    "Commercial Trial"
+  ],
+  "ESET Smart Security Premium 64-bit": [
+    "ESET Smart Security Premium 64-bit",
+    "Anti-Malware",
+    "11.2.49.0",
+    "ESET",
+    "http://www.eset.com",
+    "Commercial Trial"
+  ],
+  "F-Secure AntiVirus": [
+    "F-Secure AntiVirus",
+    "Anti-Malware",
+    "2018",
+    "F-Secure Corporation",
+    "http://www.fsecure.com",
+    "Commercial Trial"
+  ],
+  "F-Secure SAFE": [
+    "F-Secure SAFE",
+    "Anti-Malware",
+    "2018",
+    "F-Secure Corporation",
+    "http://www.fsecure.com",
+    "Commercial Purchase"
+  ],
+  "Heimdal Security": [
+    "Heimdal Security",
+    "Anti-Malware",
+    "2.2.151",
+    "Heimdal Security",
+    "http://heimdalsecurity.com",
+    "Commercial Trial"
+  ],
+  "HitmanPro.Alert": [
+    "HitmanPro.Alert",
+    "Anti-Malware",
+    "3.7.9.769",
+    "Sophos Ltd",
+    "http://home.sophos.com/about-us",
+    "Commercial Trial"
+  ],
+  "IObit Advanced SystemCare Pro": [
+    "IObit Advanced SystemCare Pro",
+    "Anti-Malware",
+    "11.4.0.232",
+    "IObit",
+    "http://www.iobit.com",
+    "Commercial Trial"
+  ],
+  "IObit Advanced Systemcare Ultimate ": [
+    "IObit Advanced Systemcare Ultimate ",
+    "Anti-Malware",
+    "12.1.0.118",
+    "IObit",
+    "http://www.iobit.com",
+    "Shareware"
+  ],
+  "Iolo Phoenix 360": [
+    "Iolo Phoenix 360",
+    "Anti-Malware",
+    "2018",
+    "iolo technologies",
+    "http://www.iolo.com",
+    "Commercial Purchase"
+  ],
+  "Iolo System Shield": [
+    "Iolo System Shield",
+    "Anti-Malware",
+    "4.2.2",
+    "iolo technologies",
+    "http://www.iolo.com",
+    "Commercial Trial"
+  ],
+  "Kaspersky Total Security": [
+    "Kaspersky Total Security",
+    "Anti-Malware",
+    "18.0.0.405",
+    "Kaspersky",
+    "http://www.kaspersky.com",
+    "Commercial Trial"
+  ],
+  "Kaspersky Virus Removal Tool": [
+    "Kaspersky Virus Removal Tool",
+    "Anti-Malware",
+    "15.0.22.0",
+    "Kaspersky",
+    "http://www.kaspersky.com",
+    "Commercial Trial"
+  ],
+  "Total AV": [
+    "Total AV",
+    "Anti-Malware",
+    "4.6.19.0",
+    "Total AV",
+    "http://totalav.com",
+    "Commercial Trial"
+  ],
+  "Trend Micro AntiVirus+": [
+    "Trend Micro AntiVirus+",
+    "Anti-Malware",
+    "12.0",
+    "Trend Micro Inc",
+    "http://www.trendmicro.com",
+    "Commercial Trial"
+  ],
+  "Trend Micro Maximum Security": [
+    "Trend Micro Maximum Security",
+    "Anti-Malware",
+    "12.0.0.1153",
+    "Trend Micro Inc",
+    "http://www.trendmicro.com",
+    "Commercial Trial"
+  ],
+  "VIPRE Advanced Security": [
+    "VIPRE Advanced Security",
+    "Anti-Malware",
+    "11.0.3.2",
+    "Vipre",
+    "http://https://www.vipre.com/",
+    "Commercial Trial"
+  ],
+  "VIRUSfighter": [
+    "VIRUSfighter",
+    "Anti-Malware",
+    "7.5.165",
+    "SPAMfighter",
+    "http://www.spamfighter.com",
+    "Commercial Demo"
+  ],
+  "Wise Anti Malware": [
+    "Wise Anti Malware",
+    "Anti-Malware",
+    "2.1.7",
+    "Wise Cleaner",
+    "http://www.wisecleaner.com",
+    "Commercial Demo"
+  ],
+  "Microsoft Security Essentials": [
+    "Microsoft Security Essentials",
+    "Anti-Malware",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "SPYWAREfighter": [
+    "SPYWAREfighter",
+    "Anti-Malware",
+    "4.5.165",
+    "SPAMfighter",
+    "http://www.spamfighter.com",
+    "Commercial Demo"
+  ],
+  "2007 Microsoft Office Add-in: Microsoft Save as PDF or XPS": [
+    "2007 Microsoft Office Add-in: Microsoft Save as PDF or XPS",
+    "Office and News",
+    "1.0",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "ABBYY FineReader Professional": [
+    "ABBYY FineReader Professional",
+    "Office and News",
+    "14.0.105.269",
+    "ABBYY",
+    "http://www.abbyy.com",
+    "Commercial Trial"
+  ],
+  "ABC Self Assessment Tax": [
+    "ABC Self Assessment Tax",
+    "Office and News",
+    "18.0.19",
+    "ABC Self Assessment Ltd",
+    "http://abcsa.co.uk",
+    "Commercial Trial"
+  ],
+  "Abdio PDF Reader": [
+    "Abdio PDF Reader",
+    "Office and News",
+    "5.4 71225",
+    "Abdio",
+    "http://www.abdio.com",
+    "Freeware"
+  ],
+  "AbiWord": [
+    "AbiWord",
+    "Office and News",
+    "2.9.4 Beta",
+    "AbiSource Community",
+    "http://www.abisource.com",
+    "Open Source"
+  ],
+  "Adept PDF Converter Kit": [
+    "Adept PDF Converter Kit",
+    "Office and News",
+    "4.0",
+    "Adept PDF Studio",
+    "http://www.adeptpdf.com",
+    "Shareware"
+  ],
+  "Adobe Acrobat DC": [
+    "Adobe Acrobat DC",
+    "Office and News",
+    "2015.017.20050",
+    "Adobe",
+    "http://www.adobe.com/uk/creativecloud.html",
+    "Commercial Trial"
+  ],
+  "Adobe Digital Editions": [
+    "Adobe Digital Editions",
+    "Office and News",
+    "4.5.8",
+    "Adobe",
+    "http://www.adobe.com/uk/creativecloud.html",
+    "Freeware"
+  ],
+  "Aiseesoft Free PDF Viewer and Reader": [
+    "Aiseesoft Free PDF Viewer and Reader",
+    "Office and News",
+    "1.0",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Freeware"
+  ],
+  "Aiseesoft Free Video Converter": [
+    "Aiseesoft Free Video Converter",
+    "Office and News",
+    "2.0.18",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Freeware"
+  ],
+  "Aiseesoft PDF to ePub Converter": [
+    "Aiseesoft PDF to ePub Converter",
+    "Office and News",
+    "3.3.18",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft PDF to Excel Converter": [
+    "Aiseesoft PDF to Excel Converter",
+    "Office and News",
+    "3.3.22",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft PDF to Image Converter": [
+    "Aiseesoft PDF to Image Converter",
+    "Office and News",
+    "3.1.36",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft PDF to Text Converter": [
+    "Aiseesoft PDF to Text Converter",
+    "Office and News",
+    "3.3.18",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft PDF to Word Converter": [
+    "Aiseesoft PDF to Word Converter",
+    "Office and News",
+    "3.3.26",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "All My Movies": [
+    "All My Movies",
+    "Office and News",
+    "8.9",
+    "Bolide Software",
+    "http://www.bolidesoft.com",
+    "Commercial Trial"
+  ],
+  "All PDF Converter": [
+    "All PDF Converter",
+    "Office and News",
+    "4.2.2.1",
+    "PDFConverters",
+    "http://www.pdfconverters.net",
+    "Commercial Trial"
+  ],
+  "ApowerPDF": [
+    "ApowerPDF",
+    "Office and News",
+    "4.1.0.022",
+    "Apowersoft",
+    "http://www.apowersoft.com",
+    "Commercial Trial"
+  ],
+  "Ashampoo Office Free": [
+    "Ashampoo Office Free",
+    "Office and News",
+    "12.0.0.959",
+    "Ashampoo GmbH &amp; Co.KG",
+    "http://www.ashampoo.com",
+    "Freeware"
+  ],
+  "Ashampoo PDF Free": [
+    "Ashampoo PDF Free",
+    "Office and News",
+    "1.1.0.0",
+    "Ashampoo GmbH &amp; Co.KG",
+    "http://www.ashampoo.com",
+    "Freeware"
+  ],
+  "AVS Document Converter": [
+    "AVS Document Converter",
+    "Office and News",
+    "4.2.1.266",
+    "Online Media Technologies Ltd.",
+    "http://www.avs4you.com",
+    "Commercial Trial"
+  ],
+  "BOKAS": [
+    "BOKAS",
+    "Office and News",
+    "1.0.0.1",
+    "Eyelick Online Services Pvt. Ltd",
+    "http://www.bokas.in",
+    "Freeware"
+  ],
+  "Calibre": [
+    "Calibre",
+    "Office and News",
+    "3.39.0",
+    "Kovid Goyal",
+    "http://www.calibre-ebook.com",
+    "Open Source"
+  ],
+  "CleverPrint": [
+    "CleverPrint",
+    "Office and News",
+    "8.0",
+    "Abelssoft",
+    "http://www.abelssoft.com",
+    "Commercial Trial"
+  ],
+  "ClickCharts": [
+    "ClickCharts",
+    "Office and News",
+    "4.00",
+    "NCH Software",
+    "http://www.nchsoftware.com",
+    "Freeware"
+  ],
+  "Comma": [
+    "Comma",
+    "Office and News",
+    "1.0.3.41",
+    "Lubom\u00edr Drinka",
+    "http://www.sites.google.com/site/ryderhelp/home2",
+    "Commercial Trial"
+  ],
+  "ConstEdit": [
+    "ConstEdit",
+    "Office and News",
+    "2.9.0009",
+    "ConstEdit Software",
+    "http://www.constedit.com",
+    "Freeware"
+  ],
+  "Corel Office": [
+    "Corel Office",
+    "Office and News",
+    "5.0.120.1522",
+    "Corel Corporation",
+    "http://www.corel.com",
+    "Commercial Trial"
+  ],
+  "Corel WordPerfect Office": [
+    "Corel WordPerfect Office",
+    "Office and News",
+    "19.0.0.325",
+    "Corel Corporation",
+    "http://www.corel.com",
+    "Commercial Trial"
+  ],
+  "CutePDF Writer": [
+    "CutePDF Writer",
+    "Office and News",
+    "3.2",
+    "CutePDF",
+    "http://www.cutepdf.com",
+    "Freeware"
+  ],
+  "DataCrow": [
+    "DataCrow",
+    "Office and News",
+    "4.2.2",
+    "Robert Jan van der Waals",
+    "http://www.datacrow.net",
+    "Open Source"
+  ],
+  "Devart Excel Add-ins": [
+    "Devart Excel Add-ins",
+    "Office and News",
+    "2.0.2",
+    "Devart",
+    "http://www.devart.com",
+    "Commercial Trial"
+  ],
+  "Dia Diagram Editor": [
+    "Dia Diagram Editor",
+    "Office and News",
+    "0.97.2",
+    "The Dia Development Team",
+    "http://www.dia-installer.de",
+    "Open Source"
+  ],
+  "Diagram Designer": [
+    "Diagram Designer",
+    "Office and News",
+    "1.29.2",
+    "Michael Vinther",
+    "http://www.meesoft.com",
+    "Freeware"
+  ],
+  "Disketch Disc Label": [
+    "Disketch Disc Label",
+    "Office and News",
+    "3.39",
+    "NCH Software",
+    "http://www.nchsoftware.com",
+    "Freeware"
+  ],
+  "doPDF": [
+    "doPDF",
+    "Office and News",
+    "10.0.107",
+    "Softland",
+    "http://www.softlandro.com",
+    "Freeware"
+  ],
+  "Dose for Excel": [
+    "Dose for Excel",
+    "Office and News",
+    "3.3.9",
+    "Zbrainsoft",
+    "http://www.zbrainsoft.com",
+    "Shareware"
+  ],
+  "Doxillion Free Document Converter": [
+    "Doxillion Free Document Converter",
+    "Office and News",
+    "3.05",
+    "NCH Software",
+    "http://www.nchsoftware.com",
+    "Freeware"
+  ],
+  "Earth Alerts": [
+    "Earth Alerts",
+    "Office and News",
+    "2019.1.28",
+    "South Wind Technologies",
+    "http://www.manyjourneys.com",
+    "Freeware"
+  ],
+  "EarthView": [
+    "EarthView",
+    "Office and News",
+    "5.17.5",
+    "DeskSoft",
+    "http://www.desksoft.com",
+    "Commercial Trial"
+  ],
+  "Epubor Ultimate Ebook Converter": [
+    "Epubor Ultimate Ebook Converter",
+    "Office and News",
+    "3.0.10.627",
+    "Epubor",
+    "http://www.epubor.com",
+    "Commercial Trial"
+  ],
+  "EssentialPIM": [
+    "EssentialPIM",
+    "Office and News",
+    "8.14",
+    "Astonsoft Ltd.",
+    "http://www.essentialpim.com",
+    "Freeware"
+  ],
+  "Evernote": [
+    "Evernote",
+    "Office and News",
+    "6.17.6.8292",
+    "Evernote Corporation",
+    "http://www.evernote.com",
+    "Freeware"
+  ],
+  "Evernote Sticky Notes": [
+    "Evernote Sticky Notes",
+    "Office and News",
+    "1.5.9",
+    "edo-soft.com",
+    "http://www.hosting.edo-soft.com/stickynotes",
+    "Freeware"
+  ],
+  "Express Accounts Free": [
+    "Express Accounts Free",
+    "Office and News",
+    "5.24",
+    "NCH Software",
+    "http://www.nchsoftware.com",
+    "Freeware"
+  ],
+  "Express Invoice ": [
+    "Express Invoice ",
+    "Office and News",
+    "6.06",
+    "NCH Software",
+    "http://www.nchsoftware.com",
+    "Freeware"
+  ],
+  "Feed Demon": [
+    "Feed Demon",
+    "Office and News",
+    "4.5.0.0",
+    "NewsGator Technologies",
+    "http://www.newsgator.com",
+    "Freeware"
+  ],
+  "FeedReader": [
+    "FeedReader",
+    "Office and News",
+    "3.14",
+    "FeedReader",
+    "http://www.feedreader.com",
+    "Freeware"
+  ],
+  "Free Language Translator": [
+    "Free Language Translator",
+    "Office and News",
+    "3.9",
+    "Decebal Mihailescu",
+    "http://www.codeplex.com/site/users/view/dmihailescu",
+    "Open Source"
+  ],
+  "Free PDF To JPG Converter": [
+    "Free PDF To JPG Converter",
+    "Office and News",
+    "1.0",
+    "Free PDF Solution",
+    "http://www.freepdfsolutions.com",
+    "Freeware"
+  ],
+  "Free PDF to Word Doc Converter": [
+    "Free PDF to Word Doc Converter",
+    "Office and News",
+    "1.1",
+    "Hellopdf Inc.",
+    "http://www.hellopdf.com",
+    "Freeware"
+  ],
+  "Geltbox Money": [
+    "Geltbox Money",
+    "Office and News",
+    "3.0.4.6",
+    "Geltbox",
+    "http://www.geltbox.com",
+    "Freeware"
+  ],
+  "GnuCash": [
+    "GnuCash",
+    "Office and News",
+    "3.4",
+    "The GnuCash Project",
+    "http://www.gnucash.org/",
+    "Open Source"
+  ],
+  "HandyPIM": [
+    "HandyPIM",
+    "Office and News",
+    "1.0.1.7",
+    "Duality Software",
+    "http://www.dualitysoft.com",
+    "Shareware"
+  ],
+  "Icecream Ebook Reader": [
+    "Icecream Ebook Reader",
+    "Office and News",
+    "5.19",
+    "icecream apps",
+    "http://www.icecreamapps.com",
+    "Freeware"
+  ],
+  "Icecream PDF Converter": [
+    "Icecream PDF Converter",
+    "Office and News",
+    "2.86",
+    "icecream apps",
+    "http://www.icecreamapps.com",
+    "Freeware"
+  ],
+  "Icecream PDF Editor": [
+    "Icecream PDF Editor",
+    "Office and News",
+    "1.17",
+    "icecream apps",
+    "http://www.icecreamapps.com",
+    "Freeware"
+  ],
+  "Icecream PDF Split&Merge": [
+    "Icecream PDF Split&Merge",
+    "Office and News",
+    "3.45",
+    "icecream apps",
+    "http://www.icecreamapps.com",
+    "Freeware"
+  ],
+  "Inventoria Professional Stock Control": [
+    "Inventoria Professional Stock Control",
+    "Office and News",
+    "3.58",
+    "NCH Software",
+    "http://www.nchsoftware.com",
+    "Freeware"
+  ],
+  "iSlide": [
+    "iSlide",
+    "Office and News",
+    "3.3.1",
+    "Chengdu islide Network Technology Co.",
+    "http://www.islide.cc",
+    "Shareware"
+  ],
+  "JabRef": [
+    "JabRef",
+    "Office and News",
+    "4.3.1",
+    "Morten Alver",
+    "http://www.jabref.sourceforge.net",
+    "Open Source"
+  ],
+  "Jaspersoft Studio": [
+    "Jaspersoft Studio",
+    "Office and News",
+    "6.6.0",
+    "Tibco Software Inc.",
+    "http://www.jaspersoft.com",
+    "Open Source"
+  ],
+  "Kindle for PC": [
+    "Kindle for PC",
+    "Office and News",
+    "1.25.0 Build 52064",
+    "Amazon Inc",
+    "http://www.amazon.com",
+    "Freeware"
+  ],
+  "Kingsoft Data Recovery Master": [
+    "Kingsoft Data Recovery Master",
+    "Office and News",
+    "3.0",
+    "Kingsoft Software",
+    "http://www.kingsoftstore.com",
+    "Commercial Trial"
+  ],
+  "Kingsoft Presentation Free 2013": [
+    "Kingsoft Presentation Free 2013",
+    "Office and News",
+    "9.1.0.4550",
+    "Kingosoft Technology Ltd.",
+    "http://www.kingoapp.com",
+    "Freeware"
+  ],
+  "Kingsoft Spreadsheets Free 2013": [
+    "Kingsoft Spreadsheets Free 2013",
+    "Office and News",
+    "9.1.0.5171",
+    "Kingosoft Technology Ltd.",
+    "http://www.kingoapp.com",
+    "Freeware"
+  ],
+  "Kingsoft Writer Free 2013": [
+    "Kingsoft Writer Free 2013",
+    "Office and News",
+    "9.1.0.4.550",
+    "Kingsoft Software",
+    "http://www.kingsoftstore.com",
+    "Freeware"
+  ],
+  "Kiwi FREE PDF Comparer": [
+    "Kiwi FREE PDF Comparer",
+    "Office and News",
+    "2.0.0",
+    "Jose A Rivero",
+    "http://www.kiwipdfcomparer.es",
+    "Freeware"
+  ],
+  "Total XML Converter": [
+    "Total XML Converter",
+    "Office and News",
+    "3.5",
+    "CoolUtils",
+    "http://www.coolutils.com",
+    "Commercial Trial"
+  ],
+  "Ultimate Dictionary": [
+    "Ultimate Dictionary",
+    "Office and News",
+    "1.0",
+    "Creative Side",
+    "http://www.creative.sourceforge.net",
+    "Freeware"
+  ],
+  "UniPDF Converter": [
+    "UniPDF Converter",
+    "Office and News",
+    "1.2",
+    "UniPDF",
+    "http://www.unipdf.com",
+    "Freeware"
+  ],
+  "Visio Professional 2013": [
+    "Visio Professional 2013",
+    "Office and News",
+    "2013",
+    "Microsoft",
+    "http://www.microsoft.com",
+    "Commercial Trial"
+  ],
+  "WinDjView": [
+    "WinDjView",
+    "Office and News",
+    "2.1",
+    "Andrew Zhezherun, Leonid Zhezherun",
+    "http://www.windjview.sourceforge.net",
+    "Open Source"
+  ],
+  "Windows Live Writer": [
+    "Windows Live Writer",
+    "Office and News",
+    "16.4.3528",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "WonderFox Document Manager": [
+    "WonderFox Document Manager",
+    "Office and News",
+    "1.2",
+    "WonderFox Soft, Inc.",
+    "http://www.videoconverterfactory.com",
+    "Commercial Trial"
+  ],
+  "Wondershare PDF to Word Converter": [
+    "Wondershare PDF to Word Converter",
+    "Office and News",
+    "4.1.0",
+    "Wondershare Software",
+    "http://www.wondershare.com",
+    "Commercial Trial"
+  ],
+  "Wondershare PDFelement 6": [
+    "Wondershare PDFelement 6",
+    "Office and News",
+    "6.8.0.3523",
+    "Wondershare Software",
+    "http://www.wondershare.com",
+    "Commercial Trial"
+  ],
+  "Wondershare PDFElement Pro for Business": [
+    "Wondershare PDFElement Pro for Business",
+    "Office and News",
+    "2018",
+    "Wondershare Software",
+    "http://www.wondershare.com",
+    "Commercial Purchase"
+  ],
+  "Word Viewer": [
+    "Word Viewer",
+    "Office and News",
+    "11.0.8173",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "WordMat": [
+    "WordMat",
+    "Office and News",
+    "1.10",
+    "Mikael Sams\u00f8e S\u00f8rensen",
+    "http://www.eduap.com",
+    "Open Source"
+  ],
+  "WordWeb": [
+    "WordWeb",
+    "Office and News",
+    "8.22",
+    "WordWeb Software",
+    "http://wordweb.info",
+    "Freeware"
+  ],
+  "WPS Office 2016 Free": [
+    "WPS Office 2016 Free",
+    "Office and News",
+    "10.2.0.7456",
+    "Kingsoft Software",
+    "http://www.kingsoftstore.com",
+    "Freeware"
+  ],
+  "WPS PDF to Word": [
+    "WPS PDF to Word",
+    "Office and News",
+    "10.2.0.5819",
+    "Kingsoft Software",
+    "http://www.kingsoftstore.com",
+    "Freeware"
+  ],
+  "Wunderlist": [
+    "Wunderlist",
+    "Office and News",
+    "3.19.7",
+    "6wunderkinder",
+    "http://www.wunderlist.com/mac/",
+    "Freeware"
+  ],
+  "YACReader": [
+    "YACReader",
+    "Office and News",
+    "9.5.0",
+    "Luis \u00c1ngel San Mart\u00edn Rodr\u00edguez",
+    "http://www.yacreader.com",
+    "Freeware"
+  ],
+  "yWriter": [
+    "yWriter",
+    "Office and News",
+    "6.0.2.6",
+    "Spacejock Software",
+    "http://www.spacejock.com",
+    "Freeware"
+  ],
+  "LeaderTask Daily Planner": [
+    "LeaderTask Daily Planner",
+    "Office and News",
+    "14.0.4.1",
+    "LeaderTask",
+    "http://www.leadercommand.com",
+    "Commercial Trial"
+  ],
+  "LibreOffice": [
+    "LibreOffice",
+    "Office and News",
+    "6.2.0",
+    "LibreOffice.org",
+    "http://www.libreoffice.org",
+    "Open Source"
+  ],
+  "Microsoft Office 2013": [
+    "Microsoft Office 2013",
+    "Office and News",
+    "2013",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Commercial Trial"
+  ],
+  "Microsoft Office Suite 2007 Service Pack 3": [
+    "Microsoft Office Suite 2007 Service Pack 3",
+    "Office and News",
+    "",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "Microsoft Works 6\u20139 File Converter": [
+    "Microsoft Works 6\u20139 File Converter",
+    "Office and News",
+    "1.0",
+    "Microsoft",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "NCH KeyBlaze": [
+    "NCH KeyBlaze",
+    "Office and News",
+    "2.16",
+    "NCH Software",
+    "http://www.nchsoftware.com",
+    "Commercial Demo"
+  ],
+  "Office Compatibility Pack": [
+    "Office Compatibility Pack",
+    "Office and News",
+    "12.0.6514.5001",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "OfficeSuite": [
+    "OfficeSuite",
+    "Office and News",
+    "2.95",
+    "Mobi Systems Inc.",
+    "http://www.mobisystems.com",
+    "Freeware"
+  ],
+  "PhraseExpress": [
+    "PhraseExpress",
+    "Office and News",
+    "13.6.11",
+    "Bartels Media GmbH",
+    "http://www.bartelsmedia.com",
+    "Freeware"
+  ],
+  "PowerPoint Viewer": [
+    "PowerPoint Viewer",
+    "Office and News",
+    "14.0.4754.1000",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "Ron's Editor": [
+    "Ron's Editor",
+    "Office and News",
+    "2019.02.18.1544",
+    "Ron's Place Apps",
+    "http://www.ronsplace.eu/Company/Index",
+    "Free"
+  ],
+  "Scribus": [
+    "Scribus",
+    "Office and News",
+    "1.5.4",
+    "Scribus",
+    "http://www.scribus.net",
+    "Open Source"
+  ],
+  "Sicyon Calculator": [
+    "Sicyon Calculator",
+    "Office and News",
+    "5.7.0",
+    "Teodor Krastev",
+    "http://www.sicyon.com",
+    "Freeware"
+  ],
+  "SoftTweak MDaemon Converter": [
+    "SoftTweak MDaemon Converter",
+    "Office and News",
+    "4.5",
+    "SoftTweak Inc.",
+    "http://www.softweak.com",
+    "Shareware"
+  ],
+  "ToDoList": [
+    "ToDoList",
+    "Office and News",
+    "7.2.8.1",
+    "Abstract Spoon Software",
+    "http://www.abstractspoon.com",
+    "Freeware"
+  ],
+  "Total Excel Converter": [
+    "Total Excel Converter",
+    "Office and News",
+    "5.1.0.281",
+    "CoolUtils",
+    "http://www.coolutils.com",
+    "Commercial Trial"
+  ],
+  "Nitro PDF Pro": [
+    "Nitro PDF Pro",
+    "Office and News",
+    "12.0.0.112",
+    "Nitro PDF, Inc.",
+    "http://www.nitropdf.com",
+    ""
+  ],
+  "Nitro Productivity Suite": [
+    "Nitro Productivity Suite",
+    "Office and News",
+    "12.0.0.112",
+    "Nitro PDF Pty. Ltd",
+    "http://www.gonitro.com",
+    "Commercial Trial"
+  ],
+  "openPDF Editor": [
+    "openPDF Editor",
+    "Office and News",
+    "0.7.0.0",
+    "openTrends Systems Solutions",
+    "http://www.opentrends.net",
+    "Open Source"
+  ],
+  "PDF Combine": [
+    "PDF Combine",
+    "Office and News",
+    "6.1.0.142",
+    "CoolUtils",
+    "http://www.coolutils.com",
+    "Commercial Trial"
+  ],
+  "PDF Compressor": [
+    "PDF Compressor",
+    "Office and News",
+    "2.0",
+    "Abelssoft",
+    "http://www.abelssoft.com",
+    "Commercial Trial"
+  ],
+  "PDF Compressor V3": [
+    "PDF Compressor V3",
+    "Office and News",
+    "3.6.6.2",
+    "PDF Converters",
+    "http://www.pdfconverters.net",
+    "Commercial Trial"
+  ],
+  "PDF Creator for Windows 7": [
+    "PDF Creator for Windows 7",
+    "Office and News",
+    "7.0.0.7229",
+    "PDF Logic Corporation",
+    "http://www.pdfseven.com",
+    "Freeware"
+  ],
+  "PDF Forte": [
+    "PDF Forte",
+    "Office and News",
+    "2.6.6.1",
+    "PDF Converters",
+    "http://www.pdfconverters.net",
+    "Freeware"
+  ],
+  "PDF Link Editor Pro": [
+    "PDF Link Editor Pro",
+    "Office and News",
+    "2.2.1",
+    "PDFLinkEditor",
+    "http://www.pdflinkeditor.com",
+    "Freeware"
+  ],
+  "PDF Password Locker and  Remover": [
+    "PDF Password Locker and  Remover",
+    "Office and News",
+    "3.3.1.0",
+    "PDF Protect Free",
+    "http://www.pdfprotectfree.com",
+    "Freeware"
+  ],
+  "PDF Reader for Windows 7": [
+    "PDF Reader for Windows 7",
+    "Office and News",
+    "1.2.2.2566",
+    "PDF Logic Corporation",
+    "http://www.pdfseven.com",
+    "Commercial Trial"
+  ],
+  "PDF Server For Windows Server 2008": [
+    "PDF Server For Windows Server 2008",
+    "Office and News",
+    "7.0.0.7229",
+    "PDF Logic Corporation",
+    "http://www.pdfseven.com",
+    "Commercial Trial"
+  ],
+  "PDF Shaper Free": [
+    "PDF Shaper Free",
+    "Office and News",
+    "8.9",
+    "BurnAware",
+    "http://www.burnaware.com",
+    "Freeware"
+  ],
+  "PDF Split and Merge Basic": [
+    "PDF Split and Merge Basic",
+    "Office and News",
+    "3.3.7",
+    "Andrea Vacondio",
+    "http://www.pdfsam.org",
+    "Open Source"
+  ],
+  "PDF-XChange Viewer": [
+    "PDF-XChange Viewer",
+    "Office and News",
+    "2.5.322.9",
+    "Tracker Software",
+    "http://www.tracker-software.com",
+    "Commercial Trial"
+  ],
+  "PDFill PDF Editor": [
+    "PDFill PDF Editor",
+    "Office and News",
+    "14.0.0.0",
+    "PlotSoft L.L.C.",
+    "http://www.pdfill.com",
+    "Commercial Trial"
+  ],
+  "PDFZilla - Free PDF Reader": [
+    "PDFZilla - Free PDF Reader",
+    "Office and News",
+    "3.8.6",
+    "PDFZilla",
+    "http://www.PDFZilla.com",
+    "Freeware"
+  ],
+  "PrimoPDF": [
+    "PrimoPDF",
+    "Office and News",
+    "5.1.0.2",
+    "activePDF",
+    "http://www.primopdf.com",
+    "Freeware"
+  ],
+  "Stellar PST Splitter": [
+    "Stellar PST Splitter",
+    "Office and News",
+    "6.0",
+    "Stellar Information Technology Pvt. Ltd.",
+    "http://send.onenetworkdirect.net/z/8141/CD232294/",
+    "Commercial Trial"
+  ],
+  "Sumatra PDF": [
+    "Sumatra PDF",
+    "Office and News",
+    "3.1.2",
+    "Krzysztof Kowalczyk",
+    "http://blog.kowalczyk.info",
+    "Open Source"
+  ],
+  "Total PDF Converter": [
+    "Total PDF Converter",
+    "Office and News",
+    "6.1.0.184",
+    "CoolUtils",
+    "http://www.coolutils.com",
+    "Commercial Trial"
+  ],
+  "SharpReader": [
+    "SharpReader",
+    "Office and News",
+    "0.9.7.0",
+    "Luke Hutteman",
+    "http://www.sharpreader.net",
+    "Freeware"
+  ],
+  "7-Zip 32-bit": [
+    "7-Zip 32-bit",
+    "Compression and Backup",
+    "19.00",
+    "7-Zip.org",
+    "http://www.7-zip.org",
+    "Open Source"
+  ],
+  "7-Zip 64-bit": [
+    "7-Zip 64-bit",
+    "Compression and Backup",
+    "19.00",
+    "7-Zip.org",
+    "http://www.7-zip.org",
+    "Open Source"
+  ],
+  "Ashampoo Backup Pro 12": [
+    "Ashampoo Backup Pro 12",
+    "Compression and Backup",
+    "12.4.0.0",
+    "Ashampoo GmbH &amp; Co.KG",
+    "http://www.ashampoo.com",
+    "Shareware"
+  ],
+  "Disk Drill For Windows": [
+    "Disk Drill For Windows",
+    "Compression and Backup",
+    "2.0.0.339",
+    "Cleverfiles",
+    "http://www.cleverfiles.com",
+    "Freeware"
+  ],
+  "Exiland Backup Free": [
+    "Exiland Backup Free",
+    "Compression and Backup",
+    "5.0",
+    "Exiland Soft",
+    "http://exiland-backup.com",
+    "Freeware"
+  ],
+  "FILEminimizerSuite": [
+    "FILEminimizerSuite",
+    "Compression and Backup",
+    "8.0",
+    "Balesio AG",
+    "http://www.balesio.com",
+    "Commercial Trial"
+  ],
+  "FonePaw for Android": [
+    "FonePaw for Android",
+    "Compression and Backup",
+    "2.9.0",
+    "FonePaw Technology Limited",
+    "http://www.fonepaw.com",
+    "Shareware"
+  ],
+  "FreeFileSync for Windows": [
+    "FreeFileSync for Windows",
+    "Compression and Backup",
+    "10.8",
+    "Zenju",
+    "http://www.freefilesync.org",
+    "Freeware"
+  ],
+  "GoodSync for Windows": [
+    "GoodSync for Windows",
+    "Compression and Backup",
+    "10.9.25",
+    "Siber Systems Inc",
+    "http://www.siber.com/",
+    "Commercial Trial"
+  ],
+  "WinRAR for PC Windows": [
+    "WinRAR for PC Windows",
+    "Compression and Backup",
+    "5.70",
+    "RARLab",
+    "http://www.rarsoft.com",
+    "Shareware"
+  ],
+  "Wondershare Dr.Fone for Android": [
+    "Wondershare Dr.Fone for Android",
+    "Compression and Backup",
+    "8.3.3",
+    "Wondershare Software",
+    "http://www.wondershare.com",
+    "Shareware"
+  ],
+  "Wondershare Dr.Fone for iOS": [
+    "Wondershare Dr.Fone for iOS",
+    "Compression and Backup",
+    "8.6.2",
+    "Wondershare Software",
+    "http://www.wondershare.com",
+    "Commercial Trial"
+  ],
+  "Xopero\u00a0Cloud Personal": [
+    "Xopero\u00a0Cloud Personal",
+    "Compression and Backup",
+    "3.9.3",
+    "Xopero",
+    "http://xopero.com",
+    "Commercial Trial"
+  ],
+  "IDrive Backup and Storage": [
+    "IDrive Backup and Storage",
+    "Compression and Backup",
+    "6.7.1.30",
+    "IDrive Inc.",
+    "http://www.idrive.com",
+    "Commercial Demo"
+  ],
+  "Paragon Backup & Recovery Advanced": [
+    "Paragon Backup & Recovery Advanced",
+    "Compression and Backup",
+    "16.22.0",
+    "Paragon Software Group",
+    "http://www.paragon-software.com",
+    "Non-Commercial Freeware"
+  ],
+  "Apowersoft Free Screen Recorder for PC Windows": [
+    "Apowersoft Free Screen Recorder for PC Windows",
+    "Desktop",
+    "3.1.0",
+    "Apowersoft",
+    "http://www.apowersoft.com",
+    "Freeware"
+  ],
+  "ATNSOFT Key Manager": [
+    "ATNSOFT Key Manager",
+    "Desktop",
+    "1.13",
+    "ATNSOFT",
+    "http://www.atnsoft.com",
+    "Shareware"
+  ],
+  "ATNSOFT Key Remapper": [
+    "ATNSOFT Key Remapper",
+    "Desktop",
+    "1.8",
+    "ATNSOFT",
+    "http://www.atnsoft.com",
+    "Shareware"
+  ],
+  "Computer Geek's Calculator": [
+    "Computer Geek's Calculator",
+    "Desktop",
+    "2.0",
+    "JF Possibilities, Inc.",
+    "http://www.jfpossibilities.com",
+    "Shareware"
+  ],
+  "Facebook Game Room": [
+    "Facebook Game Room",
+    "Desktop",
+    "1.6.0",
+    "Facebook, Inc.",
+    "http://www.facebook.com",
+    "Freeware"
+  ],
+  "Fortnite Battle Royale": [
+    "Fortnite Battle Royale",
+    "Desktop",
+    "7.16.0",
+    "Epic Games, Inc.",
+    "http://www.epicgames.com",
+    "Freeware"
+  ],
+  "Growl for Windows": [
+    "Growl for Windows",
+    "Desktop",
+    "Growl 2.0.9",
+    "Growl for Windows",
+    "http://www.growlforwindows.com/gfw/",
+    "Freeware"
+  ],
+  "Heroes of the Storm": [
+    "Heroes of the Storm",
+    "Desktop",
+    "1.16.0.2931",
+    "BLIZZARD ENTERTAINMENT, INC.",
+    "http://www.blizzard.com",
+    "Freeware"
+  ],
+  "World of Tanks": [
+    "World of Tanks",
+    "Desktop",
+    "1.4",
+    "Wargaming.net",
+    "http://Wargaming.net",
+    ""
+  ],
+  "Y'z Dock": [
+    "Y'z Dock",
+    "Desktop",
+    "0.8.3",
+    "",
+    "http://",
+    ""
+  ],
+  "Yahoo! Widget Engine": [
+    "Yahoo! Widget Engine",
+    "Desktop",
+    "4.5.2",
+    "Yahoo! Inc",
+    "http://www.yahoo.com",
+    "Freeware"
+  ],
+  "PortableApps": [
+    "PortableApps",
+    "Desktop",
+    "16.0",
+    "Rare Ideas LLC",
+    "http://www.portableapps.com",
+    "Open Source"
+  ],
+  "League of Legends": [
+    "League of Legends",
+    "Desktop",
+    "9.4",
+    "Riot Games",
+    "http://www.riotgames.com",
+    "Freeware"
+  ],
+  "Microsoft Games for Windows": [
+    "Microsoft Games for Windows",
+    "Desktop",
+    "3.5.0050.0",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "Microsoft Maquette Beta": [
+    "Microsoft Maquette Beta",
+    "Desktop",
+    "2018.7.11.0",
+    "Microsoft",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "Multi Theft Auto: San Andreas": [
+    "Multi Theft Auto: San Andreas",
+    "Desktop",
+    "1.4.1",
+    "MTA Project",
+    "http://www.mtasa.com",
+    "Open Source"
+  ],
+  "Need for Speed: Most Wanted": [
+    "Need for Speed: Most Wanted",
+    "Desktop",
+    "1.0.0.1166",
+    "Electronic Arts Inc",
+    "http://www.ea.com",
+    "Commercial Demo"
+  ],
+  "Path of Exile": [
+    "Path of Exile",
+    "Desktop",
+    "3.4.5.46409",
+    "Grinding Gear Games",
+    "http://www.grindinggear.com",
+    "Freeware"
+  ],
+  "PES 2014 Patch 1.07": [
+    "PES 2014 Patch 1.07",
+    "Desktop",
+    "1.07",
+    "Konami",
+    "http://www.konami.com",
+    "Freeware"
+  ],
+  "Planetside 2": [
+    "Planetside 2",
+    "Desktop",
+    "2018",
+    "Daybreak Game Company LLC.",
+    "http://www.daybreakgames.com",
+    "Freeware"
+  ],
+  "Rift": [
+    "Rift",
+    "Desktop",
+    "4.5",
+    "Trion Worlds",
+    "http://trionworlds.com",
+    "Freeware"
+  ],
+  "Roblox": [
+    "Roblox",
+    "Desktop",
+    "2018",
+    "Roblox Corporation",
+    "http://www.roblox.com",
+    "Freeware"
+  ],
+  "RuneScape": [
+    "RuneScape",
+    "Desktop",
+    "2.2.4",
+    "Jagex Ltd.",
+    "http://www.jagex.com",
+    "Freeware"
+  ],
+  "Smite": [
+    "Smite",
+    "Desktop",
+    "3.0.0.0",
+    "Hi-Rez Studios, INC.",
+    "http:// www.hirezstudios.com",
+    "Freeware"
+  ],
+  "Star Wars: The Old Republic - SWTOR": [
+    "Star Wars: The Old Republic - SWTOR",
+    "Desktop",
+    "5.10",
+    "BioWare",
+    "http://www.bioware.com",
+    "Freeware"
+  ],
+  "Steam Gaming Platform for PC Windows": [
+    "Steam Gaming Platform for PC Windows",
+    "Desktop",
+    "2019.02.18",
+    "Valve Corporation",
+    "http://www.valvesoftware.com",
+    "Freeware"
+  ],
+  "Tencent Gaming Buddy": [
+    "Tencent Gaming Buddy",
+    "Desktop",
+    "1.0.7773.123",
+    "Tencent",
+    "http://www.imqq.com",
+    "Freeware"
+  ],
+  "The Elder Scrolls: Arena": [
+    "The Elder Scrolls: Arena",
+    "Desktop",
+    "1.06",
+    "Bethesda Softworks LLC,",
+    "http://bethesda.net",
+    "Freeware"
+  ],
+  "The Elder Scrolls: Daggerfall": [
+    "The Elder Scrolls: Daggerfall",
+    "Desktop",
+    "2.14.1",
+    "Bethesda Softworks LLC,",
+    "http://bethesda.net",
+    "Freeware"
+  ],
+  "Uplay by Ubisoft": [
+    "Uplay by Ubisoft",
+    "Desktop",
+    "84.0.5994.0",
+    "Ubisoft",
+    "http://www.ubisoft.com",
+    "Freeware"
+  ],
+  "Tone Reactor - Sound sharing platform": [
+    "Tone Reactor - Sound sharing platform",
+    "Audio and Video",
+    "2019",
+    "Tone Reactor",
+    "http://www.tonereactor.com",
+    "Freeware"
+  ],
+  "5KPlayer": [
+    "5KPlayer",
+    "Audio and Video",
+    "5.7",
+    "DearMob, Inc.",
+    "http://www.5kplayer.com",
+    "Freeware"
+  ],
+  "Ableton Live 64-bit": [
+    "Ableton Live 64-bit",
+    "Audio and Video",
+    "10.0.2",
+    "Ableton",
+    "http://www.ableton.com",
+    "Commercial Trial"
+  ],
+  "ACID Pro 8": [
+    "ACID Pro 8",
+    "Audio and Video",
+    "1.3.43.47",
+    "MAGIX",
+    "http://www.magix.com",
+    "Commercial Trial"
+  ],
+  "Adobe Audition CC": [
+    "Adobe Audition CC",
+    "Audio and Video",
+    "2018",
+    "Adobe",
+    "http://www.adobe.com/uk/creativecloud.html",
+    "Commercial Trial"
+  ],
+  "Adobe Media Player": [
+    "Adobe Media Player",
+    "Audio and Video",
+    "1.7",
+    "Adobe Systems Inc",
+    "http://www.adobe.com",
+    "Freeware"
+  ],
+  "AIMP": [
+    "AIMP",
+    "Audio and Video",
+    "4.51.2084",
+    "AIMP",
+    "http://www.aimp.ru",
+    "Freeware"
+  ],
+  "Airy": [
+    "Airy",
+    "Audio and Video",
+    "2.0.160",
+    "Eltima Software",
+    "http://www.eltima.com/",
+    "Commercial Demo"
+  ],
+  "Aiseeoft 3D Converter": [
+    "Aiseeoft 3D Converter",
+    "Audio and Video",
+    "6.5.6",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft 4K Converter": [
+    "Aiseesoft 4K Converter",
+    "Audio and Video",
+    "9.2.18",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft DVD Creator": [
+    "Aiseesoft DVD Creator",
+    "Audio and Video",
+    "5.2.38",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft Free 3GP Converter": [
+    "Aiseesoft Free 3GP Converter",
+    "Audio and Video",
+    "2.0.18",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Freeware"
+  ],
+  "Aiseesoft Free AVI Player for Windows": [
+    "Aiseesoft Free AVI Player for Windows",
+    "Audio and Video",
+    "6.6.6",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Freeware"
+  ],
+  "Aiseesoft Free FLV Converter": [
+    "Aiseesoft Free FLV Converter",
+    "Audio and Video",
+    "2.0.18",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Freeware"
+  ],
+  "Aiseesoft Free MXF Converter": [
+    "Aiseesoft Free MXF Converter",
+    "Audio and Video",
+    "6.5.8",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Freeware"
+  ],
+  "Aiseesoft Free Video to GIF Converter": [
+    "Aiseesoft Free Video to GIF Converter",
+    "Audio and Video",
+    "1.1.12",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft HD Video Converter": [
+    "Aiseesoft HD Video Converter",
+    "Audio and Video",
+    "9.2.20",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft M2TS Converter": [
+    "Aiseesoft M2TS Converter",
+    "Audio and Video",
+    "7.2.18",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft MOD Converter": [
+    "Aiseesoft MOD Converter",
+    "Audio and Video",
+    "9.2.18",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft MP4 Video Converter": [
+    "Aiseesoft MP4 Video Converter",
+    "Audio and Video",
+    "9.2.22",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft MTS Converter": [
+    "Aiseesoft MTS Converter",
+    "Audio and Video",
+    "9.2.22",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft MXF Converter": [
+    "Aiseesoft MXF Converter",
+    "Audio and Video",
+    "9.2.22",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft Screen Recorder": [
+    "Aiseesoft Screen Recorder",
+    "Audio and Video",
+    "2.1.20.0",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft Total Video Converter": [
+    "Aiseesoft Total Video Converter",
+    "Audio and Video",
+    "9.2.28",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft Video Converter Ultimate": [
+    "Aiseesoft Video Converter Ultimate",
+    "Audio and Video",
+    "9.2.60",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft Video Downloader": [
+    "Aiseesoft Video Downloader",
+    "Audio and Video",
+    "7.1.10",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "Aiseesoft Video Enhancer": [
+    "Aiseesoft Video Enhancer",
+    "Audio and Video",
+    "9.2.20",
+    "Aiseesoft Studio",
+    "http://www.aiseesoft.com",
+    "Commercial Trial"
+  ],
+  "ALLPlayer": [
+    "ALLPlayer",
+    "Audio and Video",
+    "8.4",
+    "ALLCinema sp. z o.o.",
+    "http://www.allplayer.org",
+    "Freeware"
+  ],
+  "Amazing-Share Free Screen Recorder": [
+    "Amazing-Share Free Screen Recorder",
+    "Audio and Video",
+    "6.8.8.8",
+    "Amazing-Share",
+    "http://www.amazing-share.com",
+    "Freeware"
+  ],
+  "AnimaShooter Junior": [
+    "AnimaShooter Junior",
+    "Audio and Video",
+    "3.8.7.26",
+    "Animation Technologies LTD.",
+    "http://www.animashooter.com",
+    "Freeware"
+  ],
+  "Antares Auto-Tune": [
+    "Antares Auto-Tune",
+    "Audio and Video",
+    "9.0.1",
+    "Antares",
+    "http://www.antarestech.com",
+    "Commercial Demo"
+  ],
+  "AnyBurn": [
+    "AnyBurn",
+    "Audio and Video",
+    "4.2",
+    "Power Software Ltd",
+    "http://www.anyburn.com",
+    "Freeware"
+  ],
+  "AnyMusic MP3 Downloader": [
+    "AnyMusic MP3 Downloader",
+    "Audio and Video",
+    "6.3.1",
+    "Amoyshare",
+    "http://www.amoyshare.com",
+    "Commercial Trial"
+  ],
+  "Aoao Video Watermark Pro": [
+    "Aoao Video Watermark Pro",
+    "Audio and Video",
+    "5.2",
+    "AoaoPhoto Digital Studio",
+    "http://www.aoaophoto.com",
+    "Commercial Trial"
+  ],
+  "AP Tuner": [
+    "AP Tuner",
+    "Audio and Video",
+    "3.07",
+    "Joseph Broms",
+    "http://www.aptuner.com",
+    "Freeware"
+  ],
+  "ApowerEdit": [
+    "ApowerEdit",
+    "Audio and Video",
+    "1.2.1",
+    "Apowersoft",
+    "http://www.apowersoft.com",
+    "Commercial Trial"
+  ],
+  "ApowerShow": [
+    "ApowerShow",
+    "Audio and Video",
+    "1.0.7",
+    "Apowersoft",
+    "http://www.apowersoft.com",
+    "Freeware"
+  ],
+  "Apowersoft ApowerREC": [
+    "Apowersoft ApowerREC",
+    "Audio and Video",
+    "1.3.5.6",
+    "Apowersoft",
+    "http://www.apowersoft.com",
+    "Commercial Demo"
+  ],
+  "Apowersoft iPhone/iPad Recorder": [
+    "Apowersoft iPhone/iPad Recorder",
+    "Audio and Video",
+    "1.4.6.1",
+    "Apowersoft",
+    "http://www.apowersoft.com",
+    "Commercial Trial"
+  ],
+  "Apowersoft Screen Recorder Pro": [
+    "Apowersoft Screen Recorder Pro",
+    "Audio and Video",
+    "2.4.0.16 Build 03/04/2019",
+    "Apowersoft",
+    "http://www.apowersoft.com",
+    "Commercial Trial"
+  ],
+  "Apowersoft Streaming Audio Recorder": [
+    "Apowersoft Streaming Audio Recorder",
+    "Audio and Video",
+    "4.2.3",
+    "Apowersoft",
+    "http://www.apowersoft.com",
+    "Commercial Trial"
+  ],
+  "Apowersoft Video Converter Studio": [
+    "Apowersoft Video Converter Studio",
+    "Audio and Video",
+    "4.8.2",
+    "Apowersoft",
+    "http://www.apowersoft.com",
+    "Commercial Trial"
+  ],
+  "Aquasoft Stages": [
+    "Aquasoft Stages",
+    "Audio and Video",
+    "10.5.13.1915",
+    "Aquasoft",
+    "http://www.aquasoft.net",
+    "Commercial Trial"
+  ],
+  "ArcSoft WebCam Companion": [
+    "ArcSoft WebCam Companion",
+    "Audio and Video",
+    "4.0.20.365",
+    "ArcSoft Inc.",
+    "http://www.arcsoft.com",
+    "Commercial Trial"
+  ],
+  "Ashampoo Music Studio 2018": [
+    "Ashampoo Music Studio 2018",
+    "Audio and Video",
+    "7.0.1.0",
+    "Ashampoo GmbH &amp; Co.KG",
+    "http://www.ashampoo.com",
+    "Freeware"
+  ],
+  "Ashampoo Snap 2018": [
+    "Ashampoo Snap 2018",
+    "Audio and Video",
+    "10.0.4.0",
+    "Ashampoo GmbH &amp; Co.KG",
+    "http://www.ashampoo.com",
+    "Freeware"
+  ],
+  "Ashampoo Video Optimizer Pro": [
+    "Ashampoo Video Optimizer Pro",
+    "Audio and Video",
+    "1.0.0.0",
+    "Ashampoo GmbH &amp; Co.KG",
+    "http://www.ashampoo.com",
+    "Shareware"
+  ],
+  "aTunes": [
+    "aTunes",
+    "Audio and Video",
+    "3.1.2",
+    "The aTunes Team",
+    "http://www.atunes.org",
+    "Freeware"
+  ],
+  "Audacity": [
+    "Audacity",
+    "Audio and Video",
+    "2.3.0",
+    "Audacity Development Team",
+    "http://www.audacityteam.org",
+    "Open Source"
+  ],
+  "Audials Moviebox": [
+    "Audials Moviebox",
+    "Audio and Video",
+    "2019.0.7800.0",
+    "Audials AG",
+    "http://www.audials.com",
+    "Commercial Trial"
+  ],
+  "Audials Music Rocket": [
+    "Audials Music Rocket",
+    "Audio and Video",
+    "2019.0.8700.0",
+    "Audials AG",
+    "http://www.audials.com",
+    "Commercial Trial"
+  ],
+  "Audials One": [
+    "Audials One",
+    "Audio and Video",
+    "2019.0.7800.0",
+    "Audials AG",
+    "http://www.audials.com",
+    "Commercial Trial"
+  ],
+  "Audials Radiotracker": [
+    "Audials Radiotracker",
+    "Audio and Video",
+    "2019.0.7800.0",
+    "Audials AG",
+    "http://www.audials.com",
+    "Commercial Trial"
+  ],
+  "Audials Tunebite Platinum": [
+    "Audials Tunebite Platinum",
+    "Audio and Video",
+    "2019.0.8700.0",
+    "Audials AG",
+    "http://www.audials.com",
+    "Commercial Trial"
+  ],
+  "Audiggle": [
+    "Audiggle",
+    "Audio and Video",
+    "3.0.0.1",
+    "Audiggle",
+    "http://www.audiggle.com",
+    "Freeware"
+  ],
+  "Audio Record Wizard": [
+    "Audio Record Wizard",
+    "Audio and Video",
+    "7.21",
+    "NowSmart Studio",
+    "http://www.nowsmart.com",
+    "Freeware"
+  ],
+  "AudioCoder": [
+    "AudioCoder",
+    "Audio and Video",
+    "0.8.28",
+    "MediaCoder",
+    "http://www.mediacoderhq.com",
+    "Freeware"
+  ],
+  "Aurora Blu-ray Media Player": [
+    "Aurora Blu-ray Media Player",
+    "Audio and Video",
+    "2.19.4",
+    "Aurora Software Inc.",
+    "http://www.bluray-player-software.com",
+    "Freeware"
+  ],
+  "AutoScreenCap": [
+    "AutoScreenCap",
+    "Audio and Video",
+    "2.2.5.3",
+    "RR9898",
+    "http://www.autoscreencap.000webhostapp.com",
+    "Freeware"
+  ],
+  "Avidemux": [
+    "Avidemux",
+    "Audio and Video",
+    "2.7.1",
+    "Mean",
+    "http://fixounet.free.fr/avidemux",
+    "Open Source"
+  ],
+  "AVS Audio Converter": [
+    "AVS Audio Converter",
+    "Audio and Video",
+    "9.0.1.590",
+    "Online Media Technologies Ltd.",
+    "http://www.avs4you.com",
+    "Commercial Trial"
+  ],
+  "AVS Audio Editor": [
+    "AVS Audio Editor",
+    "Audio and Video",
+    "9.0.1.530",
+    "Online Media Technologies Ltd.",
+    "http://www.avs4you.com",
+    "Commercial Trial"
+  ],
+  "AVS Media Player": [
+    "AVS Media Player",
+    "Audio and Video",
+    "5.0.1.130",
+    "Online Media Technologies Ltd.",
+    "http://www.avs4you.com",
+    "Freeware"
+  ],
+  "AVS Video Converter": [
+    "AVS Video Converter",
+    "Audio and Video",
+    "11.0.1.632",
+    "Online Media Technologies Ltd.",
+    "http://www.avs4you.com",
+    "Commercial Trial"
+  ],
+  "AVS Video Editor": [
+    "AVS Video Editor",
+    "Audio and Video",
+    "9.0.1.328",
+    "Online Media Technologies Ltd.",
+    "http://www.avs4you.com",
+    "Commercial Trial"
+  ],
+  "AVS Video Remaker": [
+    "AVS Video Remaker",
+    "Audio and Video",
+    "6.2.1.225",
+    "Online Media Technologies Ltd.",
+    "http://www.avs4you.com",
+    "Commercial Trial"
+  ],
+  "Bandicam": [
+    "Bandicam",
+    "Audio and Video",
+    "4.3.4.1503",
+    "Bandicam Company",
+    "http://www.bandicam.com",
+    "Shareware"
+  ],
+  "Bandicut Video Cutter": [
+    "Bandicut Video Cutter",
+    "Audio and Video",
+    "3.1.3.454",
+    "Bandicam Company",
+    "http://www.bandicam.com",
+    "Commercial Trial"
+  ],
+  "BeeCut Video Editor": [
+    "BeeCut Video Editor",
+    "Audio and Video",
+    "1.4.3",
+    "BeeCut Ltd.",
+    "http://www.beecut.com",
+    "Commercial Demo"
+  ],
+  "Blu-ray Copy": [
+    "Blu-ray Copy",
+    "Audio and Video",
+    "1.0.1.1",
+    "TD More Technology LTD",
+    "http://www.tdmore.cn",
+    "Commercial Trial"
+  ],
+  "YouCam": [
+    "YouCam",
+    "Audio and Video",
+    "7.0.4129.0",
+    "CyberLink",
+    "http://www.cyberlink.com",
+    "Commercial Demo"
+  ],
+  "Clementine Player": [
+    "Clementine Player",
+    "Audio and Video",
+    "1.3.1",
+    "David Sansome",
+    "http://www.davidsansome.com",
+    "Freeware"
+  ],
+  "DivX": [
+    "DivX",
+    "Audio and Video",
+    "10.8.6",
+    "DivX LLC",
+    "http://www.divx.com",
+    "Freeware"
+  ],
+  "DJ ProMixer Free": [
+    "DJ ProMixer Free",
+    "Audio and Video",
+    "2.0",
+    "Digital Multi Soft Corp.",
+    "http://www.djpromixer.com",
+    "Freeware"
+  ],
+  "Foobar2000": [
+    "Foobar2000",
+    "Audio and Video",
+    "1.4.3 beta 1",
+    "foobar2000.org",
+    "http://www.foobar2000.org",
+    "Freeware"
+  ],
+  "Free Flash Player": [
+    "Free Flash Player",
+    "Audio and Video",
+    "2.6",
+    "DVDVideoMedia",
+    "http://www.dvdvideomedia.com",
+    "Freeware"
+  ],
+  "GOM Audio": [
+    "GOM Audio",
+    "Audio and Video",
+    "2.2.18.0",
+    "Gretech",
+    "http://www.gomplayer.com",
+    "Freeware"
+  ],
+  "GOM Player Plus": [
+    "GOM Player Plus",
+    "Audio and Video",
+    "2.3.38.5300",
+    "GOMLab",
+    "http://www.gomlab.com",
+    "Commercial Purchase"
+  ],
+  "Jajuk: Advanced Jukebox": [
+    "Jajuk: Advanced Jukebox",
+    "Audio and Video",
+    "1.10.7",
+    "Jajuk team",
+    "http://www.jajuk.info",
+    "Open Source"
+  ],
+  "jetAudio": [
+    "jetAudio",
+    "Audio and Video",
+    "8.1.7",
+    "COWON America",
+    "http://www.cowonamerica.com",
+    "Freeware"
+  ],
+  "Kanto Karaoke Player": [
+    "Kanto Karaoke Player",
+    "Audio and Video",
+    "11.0.0",
+    "Globosoft srl",
+    "http://www.kantokaraoke.com",
+    "Commercial Trial"
+  ],
+  "Karaoke 5": [
+    "Karaoke 5",
+    "Audio and Video",
+    "45.35",
+    "MediaSoft",
+    "http://www.karaoke5.com",
+    "Freeware"
+  ],
+  "KMPlayer": [
+    "KMPlayer",
+    "Audio and Video",
+    "4.2.2.22",
+    "KMPMedia",
+    "http://www.kmpmedia.net",
+    "Freeware"
+  ],
+  "KODI": [
+    "KODI",
+    "Audio and Video",
+    "18.1",
+    "Kodi",
+    "http://www.kodi.tv",
+    "Open Source"
+  ],
+  "Light Alloy": [
+    "Light Alloy",
+    "Audio and Video",
+    "4.10.1",
+    "Vortex Team",
+    "http://www.light-alloy.ru",
+    "Freeware"
+  ],
+  "Macgo Windows Blu-ray Player": [
+    "Macgo Windows Blu-ray Player",
+    "Audio and Video",
+    "2.17.2",
+    "MacGo International",
+    "http://www.macblurayplayer.com/about-us.htm",
+    "Commercial Trial"
+  ],
+  "Media Player Classic": [
+    "Media Player Classic",
+    "Audio and Video",
+    "6.4.9.1",
+    "",
+    "http://",
+    ""
+  ],
+  "MediaPortal": [
+    "MediaPortal",
+    "Audio and Video",
+    "2.2",
+    "Team MediaPortal",
+    "http://www.team-mediaportal.com",
+    "Open Source"
+  ],
+  "Miro": [
+    "Miro",
+    "Audio and Video",
+    "6.0",
+    "Participatory Culture Foundation",
+    "http://www.participatoryculture.org",
+    "Open Source"
+  ],
+  "MPC BE": [
+    "MPC BE",
+    "Audio and Video",
+    "1.4.5.501",
+    "MPC BE TEAM",
+    "http://www.sourceforge.net/projects/mpcbe/",
+    "Open Source"
+  ],
+  "MPlayer for Windows": [
+    "MPlayer for Windows",
+    "Audio and Video",
+    "37861",
+    "MPlayer Development Team",
+    "http://www.mplayerhq.hu",
+    "Open Source"
+  ],
+  "mrViewer": [
+    "mrViewer",
+    "Audio and Video",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "MusicBee": [
+    "MusicBee",
+    "Audio and Video",
+    "3.2.6902",
+    "Steven Mayall",
+    "http://www.getmusicbee.com",
+    "Freeware"
+  ],
+  "Nightingale": [
+    "Nightingale",
+    "Audio and Video",
+    "1.12.1",
+    "Nightingale",
+    "http://www.getnightingale.com",
+    "Open Source"
+  ],
+  "Plex Media Player": [
+    "Plex Media Player",
+    "Audio and Video",
+    "2.28.0.952",
+    "Plex Inc.",
+    "http://plex.tv",
+    "Open Source"
+  ],
+  "Potplayer for PC Windows": [
+    "Potplayer for PC Windows",
+    "Audio and Video",
+    "1.7.17508.0",
+    "Daum Communications",
+    "http://potplayer.daum.net/",
+    "Freeware"
+  ],
+  "QuickTime Player": [
+    "QuickTime Player",
+    "Audio and Video",
+    "7.79.80.95",
+    "Apple Inc",
+    "http://www.apple.com",
+    "Freeware"
+  ],
+  "Quintessential Player": [
+    "Quintessential Player",
+    "Audio and Video",
+    "5.0",
+    "Quinnware",
+    "http://www.quinnware.com",
+    "Freeware"
+  ],
+  "Real Alternative": [
+    "Real Alternative",
+    "Audio and Video",
+    "2.02",
+    "",
+    "http://",
+    ""
+  ],
+  "SMPlayer": [
+    "SMPlayer",
+    "Audio and Video",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Songbird": [
+    "Songbird",
+    "Audio and Video",
+    "2.2.0",
+    "Pioneers of the Inevitable",
+    "http://www.songbirdnest.com",
+    "Open Source"
+  ],
+  "SopCast": [
+    "SopCast",
+    "Audio and Video",
+    "4.2.0",
+    "SopCast",
+    "http://www.sopcast.com",
+    "Freeware"
+  ],
+  "Splash 2.0": [
+    "Splash 2.0",
+    "Audio and Video",
+    "2.6.0",
+    "Mirillis Ltd.",
+    "http://www.mirillis.com",
+    "Shareware"
+  ],
+  "Total Video Player": [
+    "Total Video Player",
+    "Audio and Video",
+    "1.31",
+    "etinysoft",
+    "http://www.etinysoft.com",
+    "Freeware"
+  ],
+  "UMPlayer": [
+    "UMPlayer",
+    "Audio and Video",
+    "0.98",
+    "Ori Rejwan",
+    "http://www.umplayer.com",
+    "Open Source"
+  ],
+  "VirtualDJ": [
+    "VirtualDJ",
+    "Audio and Video",
+    "8.3.4756",
+    "Atomix Productions",
+    "http://www.virtualdj.com",
+    "Freeware"
+  ],
+  "Converter4Video": [
+    "Converter4Video",
+    "Audio and Video",
+    "2018.5.0",
+    "Abelssoft",
+    "http://www.abelssoft.com",
+    "Commercial Trial"
+  ],
+  "ConvertXtoDVD": [
+    "ConvertXtoDVD",
+    "Audio and Video",
+    "7.0.0.61",
+    "VSO Software",
+    "http://www.vso-software.fr",
+    "Commercial Trial"
+  ],
+  "Crescendo Free Music Notation Editor": [
+    "Crescendo Free Music Notation Editor",
+    "Audio and Video",
+    "3.11",
+    "NCH Software",
+    "http://www.nchsoftware.com",
+    "Freeware"
+  ],
+  "Cyberlink Director Suite": [
+    "Cyberlink Director Suite",
+    "Audio and Video",
+    "16.0",
+    "CyberLink",
+    "http://www.cyberlink.com",
+    "Commercial Trial"
+  ],
+  "Cyberlink MediaEspresso": [
+    "Cyberlink MediaEspresso",
+    "Audio and Video",
+    "7.5 Build 8022",
+    "CyberLink",
+    "http://www.cyberlink.com",
+    "Commercial Trial"
+  ],
+  "dBpowerAMP Music Converter": [
+    "dBpowerAMP Music Converter",
+    "Audio and Video",
+    "16.6",
+    "Illustrate",
+    "http://www.dbpoweramp.com",
+    "Commercial Trial"
+  ],
+  "Debut Video Capture": [
+    "Debut Video Capture",
+    "Audio and Video",
+    "5.40",
+    "NCH Software",
+    "http://www.nchsoftware.com",
+    "Commercial Trial"
+  ],
+  "DVD Flick": [
+    "DVD Flick",
+    "Audio and Video",
+    "1.3.0.7",
+    "Dennis Meuwissen",
+    "http://www.dvdflick.net",
+    "Freeware"
+  ],
+  "DVDStyler": [
+    "DVDStyler",
+    "Audio and Video",
+    "3.0.4",
+    "Alex Th\u00fcring",
+    "http://www.dvdstyler.org",
+    "Open Source"
+  ],
+  "Dxtory": [
+    "Dxtory",
+    "Audio and Video",
+    "2.0.142",
+    "ExKode Co. Ltd",
+    "http://www.exkode.com",
+    "Commercial Trial"
+  ],
+  "Epubor Audible Converter": [
+    "Epubor Audible Converter",
+    "Audio and Video",
+    "1.0.8.108",
+    "Epubor",
+    "http://www.epubor.com",
+    "Shareware"
+  ],
+  "Eusing Free MP3 Cutter": [
+    "Eusing Free MP3 Cutter",
+    "Audio and Video",
+    "2.5",
+    "Eusing Software",
+    "http://www.eusing.com",
+    "Freeware"
+  ],
+  "Eusing Free Video Converter": [
+    "Eusing Free Video Converter",
+    "Audio and Video",
+    "2.0",
+    "Eusing Software",
+    "http://www.eusing.com",
+    "Freeware"
+  ],
+  "Flashback Express": [
+    "Flashback Express",
+    "Audio and Video",
+    "5.34.0.4396",
+    "Blueberry Software",
+    "http://flashbackrecorder.com",
+    "Commercial Trial"
+  ],
+  "FlixGrab": [
+    "FlixGrab",
+    "Audio and Video",
+    "1.2.9.1022",
+    "FreeGrabApp",
+    "http://www.freegrabapp.com",
+    "Commercial Trial"
+  ],
+  "FLV Downloader": [
+    "FLV Downloader",
+    "Audio and Video",
+    "6.6.6",
+    "Kotato",
+    "http://www.kotato.com",
+    "Freeware"
+  ],
+  "Freac": [
+    "Freac",
+    "Audio and Video",
+    "1.0.32",
+    "Robert Kausch",
+    "http://www.freac.org",
+    "Open Source"
+  ],
+  "Free Audio Converter": [
+    "Free Audio Converter",
+    "Audio and Video",
+    "5.1.7.215",
+    "DVDVideoSoft",
+    "http://www.dvdvideosoft.com",
+    "Freeware"
+  ],
+  "Free Batch Music Splitter": [
+    "Free Batch Music Splitter",
+    "Audio and Video",
+    "1.2",
+    "ozok",
+    "http://www.tencoder.sourceforge.net",
+    "Open Source"
+  ],
+  "Free CD to MP3 Converter": [
+    "Free CD to MP3 Converter",
+    "Audio and Video",
+    "4.9",
+    "Eusing Software",
+    "http://www.eusing.com",
+    "Freeware"
+  ],
+  "Free FLAC to MP3 Converter": [
+    "Free FLAC to MP3 Converter",
+    "Audio and Video",
+    "1.0",
+    "Convert Audio Free",
+    "http://www.convertaudiofree.com",
+    "Freeware"
+  ],
+  "Free Video Cutter": [
+    "Free Video Cutter",
+    "Audio and Video",
+    "1.1",
+    "Free Video Cutter ",
+    "http://www.freevideocutter.com",
+    "Freeware"
+  ],
+  "Free Video Cutter Joiner": [
+    "Free Video Cutter Joiner",
+    "Audio and Video",
+    "10.8",
+    "DVDVideoMedia",
+    "http://www.dvdvideomedia.com",
+    "Freeware"
+  ],
+  "Free Video to MP3 Converter": [
+    "Free Video to MP3 Converter",
+    "Audio and Video",
+    "5.1.6.215",
+    "DVDVideoSoft",
+    "http://www.dvdvideosoft.com",
+    "Freeware"
+  ],
+  "Free WMA MP3 Converter": [
+    "Free WMA MP3 Converter",
+    "Audio and Video",
+    "1.8",
+    "Eusing Software",
+    "http://www.eusing.com",
+    "Freeware"
+  ],
+  "Free YouTube Download": [
+    "Free YouTube Download",
+    "Audio and Video",
+    "4.1.90.124",
+    "Digital Wave LTD",
+    "http://www.dvdvideosoft.com",
+    "Freeware"
+  ],
+  "Free YouTube to MP3 Converter": [
+    "Free YouTube to MP3 Converter",
+    "Audio and Video",
+    "4.1.87.124",
+    "Digital Wave LTD",
+    "http://www.dvdvideosoft.com",
+    "Freeware"
+  ],
+  "Full Video Converter": [
+    "Full Video Converter",
+    "Audio and Video",
+    "10.5.1",
+    "Full Video Converter Inc.",
+    "http://www.full-video-converter.com",
+    "Commercial Trial"
+  ],
+  "GiliSoft Audio Converter Ripper": [
+    "GiliSoft Audio Converter Ripper",
+    "Audio and Video",
+    "6.1.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "Gilisoft Audio Editor": [
+    "Gilisoft Audio Editor",
+    "Audio and Video",
+    "2.1.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "Gilisoft Movie DVD Converter": [
+    "Gilisoft Movie DVD Converter",
+    "Audio and Video",
+    "5.0.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "GiliSoft Movie DVD Copy": [
+    "GiliSoft Movie DVD Copy",
+    "Audio and Video",
+    "3.3.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "GiliSoft Movie DVD Creator": [
+    "GiliSoft Movie DVD Creator",
+    "Audio and Video",
+    "7.2.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "GiliSoft Video Converter": [
+    "GiliSoft Video Converter",
+    "Audio and Video",
+    "10.7.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "GiliSoft Video Editor": [
+    "GiliSoft Video Editor",
+    "Audio and Video",
+    "11.2.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "Wise Video Converter": [
+    "Wise Video Converter",
+    "Audio and Video",
+    "2.3.1.65",
+    "Wise Cleaner",
+    "http://www.wisecleaner.com",
+    "Commercial Trial"
+  ],
+  "Codec Pack All-In-1": [
+    "Codec Pack All-In-1",
+    "Audio and Video",
+    "6.0.3.0",
+    "",
+    "http://",
+    ""
+  ],
+  "ffdshow": [
+    "ffdshow",
+    "Audio and Video",
+    "1.3.4531",
+    "ffdshow Dev Team",
+    "http://www.ffdshow-tryout.sourceforge.net/",
+    "Open Source"
+  ],
+  "GOM Encoder": [
+    "GOM Encoder",
+    "Audio and Video",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Avast Secure Browser": [
+    "Avast Secure Browser",
+    "Browsers and Plugins",
+    "70.1.973.111",
+    "Avast Software",
+    "http://www.avast.com",
+    "Freeware"
+  ],
+  "Internet Explorer": [
+    "Internet Explorer",
+    "Browsers and Plugins",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Baidu Browser": [
+    "Baidu Browser",
+    "Browsers and Plugins",
+    "43.23.1000.500",
+    "Baidu",
+    "http://www.baidu.com",
+    "Freeware"
+  ],
+  "Google Toolbar (IE)": [
+    "Google Toolbar (IE)",
+    "Browsers and Plugins",
+    "7.5.4209.2358",
+    "Google",
+    "http://www.google.com",
+    "Freeware"
+  ],
+  "Grammarly for Chrome": [
+    "Grammarly for Chrome",
+    "Browsers and Plugins",
+    "14.899.2126",
+    "Grammarly Inc.",
+    "http://www.grammarly.com",
+    "Freeware"
+  ],
+  "Hiver": [
+    "Hiver",
+    "Browsers and Plugins",
+    "4.6",
+    "Hiver.",
+    "http://www.hiverhq.com",
+    "Freeware"
+  ],
+  "Hola": [
+    "Hola",
+    "Browsers and Plugins",
+    "1.124.723",
+    "Hola",
+    "http://www.hola.org",
+    "Freeware"
+  ],
+  "HTTPS Everywhere": [
+    "HTTPS Everywhere",
+    "Browsers and Plugins",
+    "2019.1.31",
+    "EFF",
+    "http://www.eff.org/https-everywhere",
+    "Freeware"
+  ],
+  "IECookiesView": [
+    "IECookiesView",
+    "Browsers and Plugins",
+    "1.79",
+    "Nir Sofer",
+    "http://www.nirsoft.net",
+    "Freeware"
+  ],
+  "K-Meleon": [
+    "K-Meleon",
+    "Browsers and Plugins",
+    "75.1",
+    "K-Meleon",
+    "http://kmeleon.sourceforge.net",
+    "Open Source"
+  ],
+  "LastPass: Free Password Manager": [
+    "LastPass: Free Password Manager",
+    "Browsers and Plugins",
+    "4.25.0",
+    "LastPass",
+    "http://www.lastpass.com",
+    "Freeware"
+  ],
+  "Lunascape": [
+    "Lunascape",
+    "Browsers and Plugins",
+    "6.15.2",
+    "Lunascape Corporation",
+    "http://www.lunascape.tv",
+    "Open Source"
+  ],
+  "Microsoft Edge Browser": [
+    "Microsoft Edge Browser",
+    "Browsers and Plugins",
+    "2019",
+    "Microsoft",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "Mozilla Firefox 64-bit for PC Windows": [
+    "Mozilla Firefox 64-bit for PC Windows",
+    "Browsers and Plugins",
+    "66.0 Beta 5",
+    "Mozilla Organization",
+    "http://www.mozilla.org",
+    "Open Source"
+  ],
+  "Mozilla Firefox for PC Windows": [
+    "Mozilla Firefox for PC Windows",
+    "Browsers and Plugins",
+    "66.0 Beta 13",
+    "Mozilla Organization",
+    "http://www.mozilla.org",
+    "Open Source"
+  ],
+  "Notepad++ Plugin Manager": [
+    "Notepad++ Plugin Manager",
+    "Browsers and Plugins",
+    "1.0.8",
+    "Dave Brotherstone",
+    "http://www.npppluginmgr.sourceforge.net",
+    "Open Source"
+  ],
+  "Tor Browser for Windows": [
+    "Tor Browser for Windows",
+    "Browsers and Plugins",
+    "8.0.6",
+    "torproject",
+    "http://www.torproject.org",
+    "Freeware"
+  ],
+  "Apowersoft ApowerManager": [
+    "Apowersoft ApowerManager",
+    "File Transfer",
+    "3.2.2",
+    "Apowersoft",
+    "http://www.apowersoft.com",
+    "Commercial Trial"
+  ],
+  "CloudMounter for Windows": [
+    "CloudMounter for Windows",
+    "File Transfer",
+    "1.5.1105",
+    "Eltima Software",
+    "http://www.eltima.com/",
+    "Commercial Trial"
+  ],
+  "CuteFTP": [
+    "CuteFTP",
+    "File Transfer",
+    "",
+    "missing",
+    "missing",
+    "missing"
+  ],
+  "Degoo": [
+    "Degoo",
+    "File Transfer",
+    "1.0.2612",
+    "Degoo Backup AB",
+    "http://www.degoo.com",
+    "Freeware"
+  ],
+  "Star Downloader Free": [
+    "Star Downloader Free",
+    "File Transfer",
+    "1.45",
+    "Star Downloader",
+    "http://www.stardownloader.com",
+    "Freeware"
+  ],
+  "Yandex.Disk": [
+    "Yandex.Disk",
+    "File Transfer",
+    "3.0.9",
+    "Yandex",
+    "http://www.yandex.com",
+    "Freeware"
+  ],
+  "360 Total Security Essential": [
+    "360 Total Security Essential",
+    "Firewalls and Security",
+    "8.8.0.1105",
+    "QIHU 360",
+    "http://www.360totalsecurity.com/",
+    "Freeware"
+  ],
+  "Abelssoft AntiLogger": [
+    "Abelssoft AntiLogger",
+    "Firewalls and Security",
+    "2018.2.2",
+    "Abelssoft",
+    "http://www.abelssoft.com",
+    "Commercial Trial"
+  ],
+  "Advanced Password Manager": [
+    "Advanced Password Manager",
+    "Firewalls and Security",
+    "1.0.0.24023",
+    "Advanced Password Manager",
+    "http://advancedpasswordmanager.com",
+    "Commercial Demo"
+  ],
+  "Anvi Folder Locker Free": [
+    "Anvi Folder Locker Free",
+    "Firewalls and Security",
+    "1.2",
+    "Anvsoft Corporation",
+    "http://www.anvisoft.com",
+    "Freeware"
+  ],
+  "Ashampoo Privacy Protector": [
+    "Ashampoo Privacy Protector",
+    "Firewalls and Security",
+    "1.1.3.0",
+    "Ashampoo GmbH &amp; Co.KG",
+    "http://www.ashampoo.com",
+    "Shareware"
+  ],
+  "AxCrypt": [
+    "AxCrypt",
+    "Firewalls and Security",
+    "2.1.1573.0",
+    "AxCrypt AB",
+    "http://www.axcrypt.net",
+    "Open Source"
+  ],
+  "Bitdefender Internet Security": [
+    "Bitdefender Internet Security",
+    "Firewalls and Security",
+    "23.0.8.17",
+    "BitDefender.com",
+    "http://www.bitdefender.com",
+    "Commercial Trial"
+  ],
+  "Boxcryptor": [
+    "Boxcryptor",
+    "Firewalls and Security",
+    "2.31.870",
+    "Secomba\u00a0GmbH",
+    "http://www.boxcryptor.com",
+    "Freeware"
+  ],
+  "Cloud Secure": [
+    "Cloud Secure",
+    "Firewalls and Security",
+    "1.0.5",
+    "newsoftwares.net",
+    "http://www.newsoftwares.net",
+    "Shareware"
+  ],
+  "Codify": [
+    "Codify",
+    "Firewalls and Security",
+    "2016",
+    "Abelssoft",
+    "http://www.abelssoft.com",
+    "Freeware"
+  ],
+  "Comodo Free Firewall": [
+    "Comodo Free Firewall",
+    "Firewalls and Security",
+    "11.0.0.6744",
+    "Comodo",
+    "http://www.comodogroup.com",
+    "Freeware"
+  ],
+  "Copy Protect": [
+    "Copy Protect",
+    "Firewalls and Security",
+    "2.0.4",
+    "NewSoftwares.net",
+    "http://www.newsoftwares.net",
+    "Shareware"
+  ],
+  "CrococryptFile": [
+    "CrococryptFile",
+    "Firewalls and Security",
+    "1.6",
+    "Hissen IT",
+    "http://www.frankhissen.de",
+    "Open Source"
+  ],
+  "CrococryptMirror Portable": [
+    "CrococryptMirror Portable",
+    "Firewalls and Security",
+    "1.41",
+    "Hissen IT",
+    "http://www.frankhissen.de",
+    "Freeware"
+  ],
+  "Crypt4Free": [
+    "Crypt4Free",
+    "Firewalls and Security",
+    "5.64",
+    "InterCrypto Software",
+    "http://www.aeppro.com",
+    "Freeware"
+  ],
+  "Cryptainer LE": [
+    "Cryptainer LE",
+    "Firewalls and Security",
+    "12.2.0",
+    "Cypherix",
+    "http://www.cypherix.com",
+    "Freeware"
+  ],
+  "CryptoForge": [
+    "CryptoForge",
+    "Firewalls and Security",
+    "5.2.1",
+    "Ranquel Technologies",
+    "http://www.cryptoforge.com",
+    "Commercial Trial"
+  ],
+  "Dashlane": [
+    "Dashlane",
+    "Firewalls and Security",
+    "6.1909.0.18330",
+    "Dashlane Inc",
+    "http://www.dashlane.com",
+    "Freeware"
+  ],
+  "DiskCryptor": [
+    "DiskCryptor",
+    "Firewalls and Security",
+    "1.1.846.118",
+    "DiskCryptor",
+    "http://www.diskcryptor.net",
+    "Open Source"
+  ],
+  "Encrypt Care": [
+    "Encrypt Care",
+    "Firewalls and Security",
+    "2.3",
+    "GloryLogic",
+    "http://www.glorylogic.com",
+    "Freeware"
+  ],
+  "Event Log Explorer": [
+    "Event Log Explorer",
+    "Firewalls and Security",
+    "4.7",
+    "FSPro Labs",
+    "http://www.eventlogxp.com",
+    "Freeware"
+  ],
+  "F-Secure Internet Security": [
+    "F-Secure Internet Security",
+    "Firewalls and Security",
+    "3.17.192.0",
+    "F-Secure Corporation",
+    "http://www.fsecure.com",
+    "Commercial Trial"
+  ],
+  "F-Secure KEY": [
+    "F-Secure KEY",
+    "Firewalls and Security",
+    "4.9.58",
+    "F-Secure Corporation",
+    "http://www.fsecure.com",
+    "Freeware"
+  ],
+  "File Encryption XP": [
+    "File Encryption XP",
+    "Firewalls and Security",
+    "1.7.333",
+    "Pavlo Matviienko",
+    "http://www.cp-lab.com",
+    "Commercial Trial"
+  ],
+  "Folder Lock": [
+    "Folder Lock",
+    "Firewalls and Security",
+    "7.7.8",
+    "NewSoftwares.net",
+    "http://www.newsoftwares.net",
+    "Commercial Trial"
+  ],
+  "Folder Protect": [
+    "Folder Protect",
+    "Firewalls and Security",
+    "2.0.5",
+    "NewSoftwares.net",
+    "http://www.newsoftwares.net",
+    "Shareware"
+  ],
+  "Fort": [
+    "Fort",
+    "Firewalls and Security",
+    "5.0",
+    "Niko Rosvall",
+    "http://www.byteptr.com/",
+    "Freeware"
+  ],
+  "GiliSoft CD DVD Encryption": [
+    "GiliSoft CD DVD Encryption",
+    "Firewalls and Security",
+    "3.2.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "Gilisoft EXE Lock": [
+    "Gilisoft EXE Lock",
+    "Firewalls and Security",
+    "5.2.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "GiliSoft File Lock": [
+    "GiliSoft File Lock",
+    "Firewalls and Security",
+    "9.1.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "Gilisoft Privacy Protector": [
+    "Gilisoft Privacy Protector",
+    "Firewalls and Security",
+    "8.0.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "GiliSoft Private Disk": [
+    "GiliSoft Private Disk",
+    "Firewalls and Security",
+    "7.2.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "GiliSoft Secure Disc Creator": [
+    "GiliSoft Secure Disc Creator",
+    "Firewalls and Security",
+    "7.2.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "GiliSoft USB Stick Encryption": [
+    "GiliSoft USB Stick Encryption",
+    "Firewalls and Security",
+    "6.2.0",
+    "GiliSoft International LLC.",
+    "http://www.gilisoft.com",
+    "Commercial Trial"
+  ],
+  "GlassWire Free Firewall": [
+    "GlassWire Free Firewall",
+    "Firewalls and Security",
+    "2.1.152",
+    "SecureMix LLC",
+    "http://www.glasswire.com",
+    "Freeware"
+  ],
+  "Hidden Disk": [
+    "Hidden Disk",
+    "Firewalls and Security",
+    "4.14",
+    "Mathew Limdonholk",
+    "http://www.cyrobo.com",
+    "Freeware"
+  ],
+  "Hotspot Shield": [
+    "Hotspot Shield",
+    "Firewalls and Security",
+    "7.15.1",
+    "AnchorFree, Inc.",
+    "http://www.anchorfree.com",
+    "Freeware"
+  ],
+  "HP DigitalPersona Fingerprint Reader Software": [
+    "HP DigitalPersona Fingerprint Reader Software",
+    "Firewalls and Security",
+    "5.1.0.175",
+    "Hewlett Packard",
+    "http://www.hp.com",
+    "Freeware"
+  ],
+  "HP SimplePass": [
+    "HP SimplePass",
+    "Firewalls and Security",
+    "8.01.46",
+    "Hewlett Packard",
+    "http://www.hp.com",
+    "Freeware"
+  ],
+  "iBeesoft File Shredder": [
+    "iBeesoft File Shredder",
+    "Firewalls and Security",
+    "2.0",
+    "iBeesoft",
+    "http://www.ibeesoft.com",
+    "Shareware"
+  ],
+  "Icecream Password Manager": [
+    "Icecream Password Manager",
+    "Firewalls and Security",
+    "1.16",
+    "icecream apps",
+    "http://www.icecreamapps.com",
+    "Freeware"
+  ],
+  "Kaspersky Internet Security": [
+    "Kaspersky Internet Security",
+    "Firewalls and Security",
+    "18.0.0.405",
+    "Kaspersky",
+    "http://www.kaspersky.com",
+    "Commercial Trial"
+  ],
+  "Kaspersky Password Manager": [
+    "Kaspersky Password Manager",
+    "Firewalls and Security",
+    "9.0.1.447",
+    "Kaspersky",
+    "http://www.kaspersky.com",
+    "Commercial Trial"
+  ],
+  "KeePass": [
+    "KeePass",
+    "Firewalls and Security",
+    "1.37",
+    "KeePass",
+    "http://keepass.sourceforge.net",
+    "Open Source"
+  ],
+  "KeyDepot": [
+    "KeyDepot",
+    "Firewalls and Security",
+    "2019.6.2",
+    "Abelssoft",
+    "http://www.abelssoft.com",
+    "Commercial Trial"
+  ],
+  "KeyScrambler Personal": [
+    "KeyScrambler Personal",
+    "Firewalls and Security",
+    "3.11.0.3",
+    "QFX Software",
+    "http://www.qfxsoftware.com",
+    "Freeware"
+  ],
+  "Kruptos 2 Professional": [
+    "Kruptos 2 Professional",
+    "Firewalls and Security",
+    "6.2.0.3",
+    "Steve Beckett",
+    "http://www.kruptos2.com",
+    "Commercial Trial"
+  ],
+  "LastPass For Windows": [
+    "LastPass For Windows",
+    "Firewalls and Security",
+    "4.19.0",
+    "LastPass",
+    "http://www.lastpass.com",
+    "Freeware"
+  ],
+  "Lock USB": [
+    "Lock USB",
+    "Firewalls and Security",
+    "1.0.2",
+    "Lock USB Inc.",
+    "http://www.lock-usb.net",
+    "Shareware"
+  ],
+  "Microsoft Baseline Security Analyzer": [
+    "Microsoft Baseline Security Analyzer",
+    "Firewalls and Security",
+    "2.3",
+    "Microsoft Corporation",
+    "http://www.microsoft.com",
+    "Freeware"
+  ],
+  "NCH EyeLine": [
+    "NCH EyeLine",
+    "Firewalls and Security",
+    "2.06",
+    "NCH Software",
+    "http://www.nchsoftware.com",
+    "Commercial Demo"
+  ],
+  "Nmap": [
+    "Nmap",
+    "Firewalls and Security",
+    "7.70",
+    "Gordon Lyon",
+    "http://nmap.org",
+    "Open Source"
+  ],
+  "Norton Security Standard": [
+    "Norton Security Standard",
+    "Firewalls and Security",
+    "28.8.50",
+    "Symantec",
+    "http://www.symantec.com",
+    "Commercial Trial"
+  ],
+  "O&O SafeErase Professional": [
+    "O&O SafeErase Professional",
+    "Firewalls and Security",
+    "12.8.192",
+    "O&amp;O Software",
+    "http://www.oo-software.com",
+    "Commercial Trial"
+  ],
+  "Outpost Firewall Free": [
+    "Outpost Firewall Free",
+    "Firewalls and Security",
+    "6.51",
+    "Agnitum Ltd",
+    "http://www.agnitum.com",
+    "Freeware"
+  ],
+  "Panda Global Protection 2017": [
+    "Panda Global Protection 2017",
+    "Firewalls and Security",
+    "17.0.1",
+    "Panda Security",
+    "http://www.pandasecurity.com",
+    "Commercial Trial"
+  ],
+  "Panda Gold Protection 2017": [
+    "Panda Gold Protection 2017",
+    "Firewalls and Security",
+    "17.0.1",
+    "Panda Security",
+    "http://www.pandasecurity.com",
+    "Commercial Trial"
+  ],
+  "Panda Internet Security 2017": [
+    "Panda Internet Security 2017",
+    "Firewalls and Security",
+    "17.0.1",
+    "Panda Security",
+    "http://www.pandasecurity.com",
+    "Commercial Trial"
+  ],
+  "Password Boss": [
+    "Password Boss",
+    "Firewalls and Security",
+    "3.1.3562.0",
+    "Password Boss",
+    "http://www.passwordboss.com",
+    "Commercial Trial"
+  ],
+  "Password Manager XP": [
+    "Password Manager XP",
+    "Firewalls and Security",
+    "3.3.732",
+    "CP-Lab",
+    "http://www.cp-lab.com",
+    "Commercial Trial"
+  ],
+  "Password Memory": [
+    "Password Memory",
+    "Firewalls and Security",
+    "7.0.1",
+    "Code:Aero Technologies",
+    "http://www.codeaero.com",
+    "Freeware"
+  ],
+  "Password Safe": [
+    "Password Safe",
+    "Firewalls and Security",
+    "3.48",
+    "Rony Shapiro",
+    "http://passwordsafe.sourceforge.net",
+    "Open Source"
+  ],
+  "Password Storer": [
+    "Password Storer",
+    "Firewalls and Security",
+    "6.2",
+    "Softromeda, Inc.",
+    "http://www.softromeda.zn.uz",
+    "Freeware"
+  ],
+  "PDF Page Lock": [
+    "PDF Page Lock",
+    "Firewalls and Security",
+    "2.1.1",
+    "PDF Page Lock",
+    "http://www.pdfpagelock.com",
+    "Freeware"
+  ],
+  "PeerBlock": [
+    "PeerBlock",
+    "Firewalls and Security",
+    "1.2",
+    "PeerBlock, LLC",
+    "http://www.peerblock.com",
+    "Open Source"
+  ],
+  "PeerGuardian": [
+    "PeerGuardian",
+    "Firewalls and Security",
+    "2.0 Beta 6C",
+    "Phoenix Labs",
+    "http://www.phoenixlabs.org",
+    "Open Source"
+  ],
+  "Perfecto Encryptor": [
+    "Perfecto Encryptor",
+    "Firewalls and Security",
+    "1.0.0.2",
+    "Black Bird Cleaner Software",
+    "http://www.blackbirdcleaning.com",
+    "Commercial Trial"
+  ],
+  "Protected Folder": [
+    "Protected Folder",
+    "Firewalls and Security",
+    "1.3",
+    "IObit",
+    "http://www.iobit.com",
+    "Commercial Trial"
+  ],
+  "Roboform": [
+    "Roboform",
+    "Firewalls and Security",
+    "8.5.6.6",
+    "Siber Systems Inc",
+    "http://www.siber.com/",
+    "Commercial Trial"
+  ],
+  "SafeHouse Personal Edition": [
+    "SafeHouse Personal Edition",
+    "Firewalls and Security",
+    "3.07",
+    "PC Dynamics",
+    "http://www.safehousesoftware.com",
+    "Commercial Trial"
+  ],
+  "Safeplicity": [
+    "Safeplicity",
+    "Firewalls and Security",
+    "4.1",
+    "Safeplicity Ltd",
+    "http://www.safeplicity.com",
+    "Commercial Trial"
+  ],
+  "SensiGuard": [
+    "SensiGuard",
+    "Firewalls and Security",
+    "3.6",
+    "WebMinds, INC.",
+    "http://www.sensiguard.com",
+    "Commercial Trial"
+  ],
+  "TortoiseSVN Password Decrypter": [
+    "TortoiseSVN Password Decrypter",
+    "Firewalls and Security",
+    "1.0.40",
+    "Leap Beyond Solutions",
+    "http://www.leapbeyond.com",
+    "Freeware"
+  ],
+  "Trend Micro Password Manager": [
+    "Trend Micro Password Manager",
+    "Firewalls and Security",
+    "3.7.0.1223",
+    "Trend Micro Inc",
+    "http://www.trendmicro.com",
+    "Commercial Trial"
+  ],
+  "TrueCrypt": [
+    "TrueCrypt",
+    "Firewalls and Security",
+    "7.2",
+    "TrueCrypt Foundation",
+    "http://www.truecrypt.org",
+    "Open Source"
+  ],
+  "USB Block": [
+    "USB Block",
+    "Firewalls and Security",
+    "1.7.4",
+    "NewSoftwares.net",
+    "http://www.newsoftwares.net",
+    "Shareware"
+  ],
+  "USB Secure": [
+    "USB Secure",
+    "Firewalls and Security",
+    "2.1.7",
+    "newsoftwares.net",
+    "http://www.newsoftwares.net",
+    "Shareware"
+  ],
+  "VeraCrypt": [
+    "VeraCrypt",
+    "Firewalls and Security",
+    "1.23",
+    "IDRIX",
+    "http://www.idrix.fr",
+    "Freeware"
+  ],
+  "VyprVPN": [
+    "VyprVPN",
+    "Firewalls and Security",
+    "2.16.0.8645",
+    "Golden Frog Inc",
+    "http://www.goldenfrog.com",
+    "Commercial Trial"
+  ],
+  "ZoneAlarm Extreme Security": [
+    "ZoneAlarm Extreme Security",
+    "Firewalls and Security",
+    "15.3.060.17669",
+    "Zone Labs",
+    "http://www.zonelabs.com",
+    "Commercial Trial"
+  ],
+  "ZoneAlarm Internet Security": [
+    "ZoneAlarm Internet Security",
+    "Firewalls and Security",
+    "15.0.139.17085",
+    "Zone Labs",
+    "http://www.zonelabs.com",
+    "Commercial Trial"
+  ]
+}
