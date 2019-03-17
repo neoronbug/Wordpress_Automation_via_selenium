@@ -7,7 +7,7 @@ from selenium.webdriver.common.keys import Keys
 from time import sleep
 import json
 
-with open("windows_softwares_full_values_updated.json") as file:
+with open("softwar_details.json") as file:
  	details = json.load(file)
 
 cat_data = {
