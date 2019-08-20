@@ -1,4 +1,4 @@
-# Wordpress_Automation
+# Wordpress_Automation via Selenium. 
 This Code is for the Purpose to Automate WordPress Pages Creation Stuff.
 
 If you want to add lot of pages to your wordpress website and add multiple informations to those pages, This will help out in doing that without your manual involvement. 
